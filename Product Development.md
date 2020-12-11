@@ -1,0 +1,95 @@
+- ## For Product Manager
+    - Influencing without authority
+    - ![](https://video.udacity-data.com/topher/2020/April/5e9f19e4_l0-new-slides/l0-new-slides.png)
+    - ![](https://video.udacity-data.com/topher/2020/April/5e9f1b33_l1-new-slides-1/l1-new-slides-1.png)
+    - Becoming Credible
+        - ![](https://video.udacity-data.com/topher/2020/April/5e9f1d9c_l1-new-slides-2/l1-new-slides-2.png)
+        - ![](https://video.udacity-data.com/topher/2020/April/5e9f2bd6_l1-new-slides-3/l1-new-slides-3.png)
+        - Know your market:
+            - ![](https://video.udacity-data.com/topher/2020/April/5e9f305d_l1-new-slides-4/l1-new-slides-4.png)
+            - ![](https://video.udacity-data.com/topher/2020/April/5ea737f5_l1-new-slides-5/l1-new-slides-5.png)
+        - ![](https://video.udacity-data.com/topher/2020/April/5ea07479_l1-new-slides-6/l1-new-slides-6.png)
+        - ![](https://video.udacity-data.com/topher/2020/April/5ea0770a_l1-new-slides-7/l1-new-slides-7.png)
+    - Build Trust
+        - ![](https://video.udacity-data.com/topher/2020/April/5ea078cf_l1-new-slides-8/l1-new-slides-8.png)
+        - ![](https://video.udacity-data.com/topher/2020/April/5ea07c37_l1-new-slides-9/l1-new-slides-9.png)
+        - The product manager is shown in the center with a lot of arrows because you are going to be talking to a lot of people!
+            - Core/Development Team:
+                - Product Designer: you will be working closely with them from the problem definition through the solution phase to launch the product and analyze the feedback. You will also conduct [User Research](<User Research.md>) to validate both the problem and the solution.
+                - Engineering Team: You will be partnering with them to define how to solve the problem as you work with the designer.
+                - Quality Assurance Team: Often referred to as the QA team. This is your partner in crime to break the product that you are building to make sure it works as expected when it gets in the hands of real users.
+                - Data Analyst: Depending upon the company you may have a data analyst to partner with. These team members provide you with the various metrics: product metrics, company metrics. In order to analyze these metrics, it is important to have them tracked in the first place. You will partner with the data analyst to define the requirements to track the data, test to confirm the requirements are met successfully and set up various experiments as part of the product launch.
+        - ## Product Manager Extended Team
+        - Beyond the core development team a product manager may also interact regularly with:
+            - Marketing: In some companies, they may be called a product marketing team, adoption team, etc. You partner with this team to determine the activities to be carried out to ensure that the product you're launching is discovered by your customers and adopted successfully
+            - Sales Team: In some companies, they may be business development, account executives, etc. The sales team needs to understand the product features and their intended benefits clearly to be able to communicate them to potential clients.
+            - Customer Support Team: Not every single user problem or product issue can be solved in the product immediately. After the product launch, they will be your front line team members interacting with irate customers sometimes and helping them to resolve issues.
+            - Account Management Team: Their name varies across companies such as client management, customer success, client implementation, and operations, etc. The account managers step in once the product has been sold. They take over the client relationship from the sales team to onboard and continue to manage the client relationship through product upgrades and renewals. You may partner with this team closely to receive customer feedback early on during the solution discovery phase, attend calls to pitch your new product idea, or resolve a major customer concern.
+            - Finance Team: you will be responsible to make sure their reporting and accounting needs are met. Depending upon the type of company and product you manage your need to partner with finance team will vary.
+        - ![](https://video.udacity-data.com/topher/2020/April/5ea09da5_l1-new-slides-10/l1-new-slides-10.png)
+        - As a product manager, you have to work with almost every single team in the company If you work in isolation it is going to be very challenging for you to coordinate product launch, know when your product is not working or get someone's help because at end of the day we all need to help each other.
+        - This is where the power of one-on-one meetings come in. You meet with an individual from the peer team that you will be working very closely with and will coordinate a lot.
+        - ### Reach out to your peers that you will work closely with to set up a meeting and then:
+            - **Take time to understand their roles and responsibilities.**
+                - Know what do they do at the company, specifically what do they do when it comes to partnering with the product team.
+            - **How do they collaborate?**
+                - Understand how they share feedback and new ideas.
+                - Are they receiving roadmap updates?
+                - Are they being informed about product updates?
+            - **What is working well in the current process?**
+                - This will help you understand what you need to carry out specifically to collaborate with them
+            - **What can you do to improve this process?**
+                - Listen keenly to understand what are they asking and why? Knowing this will help you identify tasks to address their feedback.
+            - **What urgent issues do they believe need to be addressed now?**
+                - Is this something you can help solve?
+            - **Follow up on your conversations.**
+                - This helps build trust that you were listening and care about what they think.
+            - **Set up a regular meeting with them.**
+                - This helps build rapport with consistent contact.
+        - ### Know your development teams
+        - **What existing challenges need to be addressed?** Understand the current product implementation. How is the product built? What are the engineering goals you need to be aware of? From your 1x 1 meeting with the development team members, you gained a sneak peek into how the product has been built and how testing works.
+        - It is essential to **understanding the inner workings of both the product and the team**. Meet with them again if needed. We will focus on understanding the engineering implementation and testing process. In your meeting with the engineering lead, understand how the product is built (e.g., architecture design). What are the challenges that need to be addressed? Are there any engineering goals to be accomplished? As a PM you are going to be **managing a single list of tasks to complete** (which is called **backlog**) and if that does not reflect their engineering goals how can they meet their goal?
+        - ### Understand the current testing process
+        - Extend the same philosophy to the QA team member.
+        - ### How is the product tested?
+        - Understand how they test a product: Do they have a combination of manual testing and automated testing? If you used manual testing to try to break the product to know the product, try automated testing. Automated testing does not require someone to sit in front of a screen and interact with the product. Automated testing could be done by utilizing a third-party tool or writing scripts that need to be run. Let’s take the example of mobile apps that are in IOS and Android: A combination of manual and automated testing is used. It is important to ensure the best user experience is available across all devices and platforms. **Third-party tools** may be used to verify the user experience across different platforms and devices without the need for a team to maintain an inventory of every device used by the target customers. **When automated testing used?** Some teams automate the verification of existing features to ensure they are not broken when an existing feature is improved or a new feature is added. **When Manual Testing is used?** Manual testing is typically conducted when a new feature is being built and launched, and QA members will test the new feature by interacting with it. Some companies add automation to the new feature as well and may verify critical existing functionalities manually
+        - ### What existing challenges need to be addressed?
+        - What are the challenges in the testing process? Some of their challenges cannot be resolved by Product Managers, while others can be. Let’s take an example that I have often seen teams run into, and I personally did at the early stages of my career. Many QA team members like conducting exploratory testing for a new product, especially a critical product. During my early stint as a Product Manager, when the QA team member had completed their verification, I noticed far more critical issues while testing the product previously gone unnoticed and these got me very frustrated. What went wrong here? I met with the testers and shared my feedback, expressed my disappointment in how their testing was not giving the desired coverage. After some back and forth, we realized the real problem was the issues I identified by testing were due to my understanding of how users tend to behave in the real world and their constraints. I had not shared this information in full details with the testers.
+        - Your responsibility **as a product manager is to be the eyes and voice of your users** to the development team. Take all the learnings and insights about your customer and their environment and including emotional aspect of the users, so that the tester is able to put themselves in the shoes of the user and various emotions they go through and test the product to find critical issues and provide feedback on the product usability as well. **Understand their goals.** For e.g., a QA team wants to reduce the number of critical issues that are identified when the product goes live by x % within the next 3 months. Knowing this will help you understand how to coordinate early on and test the product to launch a high-quality product
+        - ### Know your teams
+        - ### Unleash the power of One on Ones:
+        - Set up **regular one on ones** to meet with team members in your core team and peer teams. Develop a communication channel where feedback, ideas, and issues can be shared without any concerns because of the underlying trust that binds all of you together. Spend sufficient time knowing how does your core team work and also how is the product built and tested. These are layers to the knowledge foundation that you need to be able to collaborate effectively
+            - Develop open communication channel between teams
+            - Know the inner workings of the team
+            - Gain knowledge and learn to collaborate effectively
+        - Good team dynamics make or break a team. Building a strong relationship requires you to understand what does everyone do, their challenges in order to determine how can you help each other. This lays the foundation for a **cohesive team.**
+            - Set up regular one on ones to meet with team members in your core team and peer teams. Develop a communication channel where feedback, ideas and issues can be shared without any concerns because of the underlying trust that binds all of you together.
+            - Spend sufficient time knowing how does your core team work and also how is the product built and tested. These are layers to the knowledge foundation that you need to be able to collaborate effectively.
+        - Start doing this within the first two to six weeks of joining as a product manager and continue on an ongoing basis.
+    - Guide the Team
+        - ## Guiding the Team Key Points
+        - ### The Art of Storytelling
+            - Create a very powerful and engaging story to communicate your project scope.
+            - Get your audience will be able to empathize with your user and their problems.
+            - Weave your story to help the audience in connecting the dots between the user and their problem to the product strategy and goals.
+        - ### Master the Art of Saying No
+            - You should listen to ideas and feedback.
+            - Respond according to the product strategy and goals.
+        - ### Run Meetings Effectively
+            - Make sure decisions are made.
+            - Keep the conversation on topic.
+            - Be clear on a meeting purpose.
+        - ### Be an Expert Negotiator
+            - Concentrate on achieving a common goal.
+        - ### Set Everyone Up for Success by Coordinating Well
+            - Create coordination activity maps.
+        - ### By Guiding the Team you Will be Achieving Better Outcomes as a Team
+            - You should always be guiding the team towards sucess.
+
+# Backlinks
+## [August 28th, 2020](<August 28th, 2020.md>)
+- **What is product engineering**?  [Consume](<Consume.md>) [Product Development](<Product Development.md>)
+
+## [Product Management](<Product Management.md>)
+- ### [Product Development](<Product Development.md>)
+

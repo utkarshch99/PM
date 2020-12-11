@@ -1,0 +1,718 @@
+- ### Learning Objectives
+    - Describe the role of a PM and a PM’s critical partners
+    - Build roadmaps and write PRDs
+    - Identify and size opportunities
+    - Create a business case for a new product opportunity
+    - Define the use cases of a product, including its KPIs
+    - Build a projected revenue model for your new product
+    - Put together and present a compelling product pitch to gain internal stakeholder buy-in
+- ### Problem Identification
+    - ^^Make sure you are solving the right problems^^
+        - You can start to identify which problems to solve by looking at:
+            - Market Research
+            - [User Research](<User Research.md>)
+            - Product Data
+            - Support Data
+            - Efficiency gains
+        - Time is limited and not all problems have same impact.
+        - If product can't solve business goals, ultimately product will fail.
+    - `" You can change everything in your startup except market. So spend a lot of time up front to make sure you've thought through your market"`
+    - Glossary
+        - {{table}}
+            - Term
+                - Definition
+            - Efficiency gain
+                - Something that results in a process being less expensive to complete (shorter amount of time, less money, etc).
+            - TAM
+                - Total Addressable Market. A measure of the revenue opportunity for a product.
+            - ARPU
+                - Average Revenue per User. The average amount of revenue you receive for each user you have, usually measured by year.
+            - ROI
+                - Return On Investment. The ratio between the net profit and amount of investment. A high ROI indicates more impact with less effort.
+            - Payback period
+                - The amount of time that it takes for a product to recoup the initial investment required to build it
+            - Focus group
+                - A small group of people you can present concepts to in order to see how they react. Generally this will be a diverse group of people and you will have specific questions you’d like to get their feedback on.
+            - Target User
+                - A representation of a group of users with shared characteristics.
+    - **Understanding the Market:**
+        - [Product Market fit](<Product Market fit.md>)
+            - Being in a good market with a product that can satisfy that market
+            - Good market: Size, Growth, Acquisition
+                - Size: How many people have this problem?
+                - Growth: Is the size of the market increasing?
+                - Acquisition: How much does it cost to acquire customers?
+            - Ways to get market insight
+                - Online research
+                - headlines and news
+                - similar products
+                - trends:
+                    - [Mary Meeker’s Internet Trends](https://www.bondcap.com/report/itr19/)
+                    - Google trends
+            - {{kanban}}
+                - No fit:
+                    - Users arent getting value
+                    - no word of mouth
+                    - no press buzz
+                    - slow growth
+                - Good fit:
+                    - users get a lot of value
+                    - product practically sells itself
+                    - press is reaching out to talk to you about your product
+                    - product in high demand
+            - [ ] https://a16z.com/2017/02/18/12-things-about-product-market-fit/
+        - Exercise: Industry trends
+            - trends in the fitness tracking market.
+            - Here are some questions to get you started:
+                - What benefits does improving fitness provide?
+                - What products are already in the market?
+                - How much do people spend on health/fitness?
+                - What are the different ways to deliver fitness tracking?
+                    - What are the pros and cons?
+            - Solution
+                - ## Benefits
+                    - Controls weight
+                    - Combats health conditions & diseases
+                    - Improves mood
+                    - Boosts energy
+                    - Sleep better
+                - ## Existing Products
+                    - Smartwatches
+                    - Apps
+                    - Smart Ring
+                - ## Spending
+                    - $155 / mo
+                    - $1,860 / yr
+                - CategoryAmount
+                - Supplements$56
+                - Clothing$35
+                - Gym$33
+                - Meal Plans$17
+                - Trainers$14
+    - **Target User**
+        - Users with shared characteristics who are likely interested in your product
+        - Identifying a target user creates focus and lets you focus on solving the needs of that specific target user.
+        - Get data about them by Market Research, interviews, surveys, focus grous, customer data & more and get characteristics like:
+            - Demographics
+            - Motivating
+            - Goals
+            - Frustrations
+        - Then you can create fictional user personas
+            - Name + attribute, illustration
+            - incorporate real quotes from [User Research](<User Research.md>)
+            - description
+            - frustration
+            - goals
+            - motivation
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FoDWr9YI30v?alt=media&token=ce06e689-7a43-4e1f-8a34-dd92e563e8a0)
+        - [ ] [Are You Ready to Change Your Target Customer?](https://hbr.org/2019/03/are-you-ready-to-change-your-target-customer)
+        - [ ] [How to Define Your Target Market: A Guide to Audience Research](https://blog.hootsuite.com/target-market/)
+        - Exercise:
+            - Create 3 user personas for fitness tracker
+            - Solution
+                - ![](https://video.udacity-data.com/topher/2020/January/5e174eeb_screen-shot-2020-01-09-at-11.03.43-am/screen-shot-2020-01-09-at-11.03.43-am.png)
+                - ![](https://video.udacity-data.com/topher/2020/January/5e174f27_screen-shot-2020-01-09-at-11.04.38-am/screen-shot-2020-01-09-at-11.04.38-am.png)
+                - ![](https://video.udacity-data.com/topher/2020/January/5e174f40_screen-shot-2020-01-09-at-11.05.09-am/screen-shot-2020-01-09-at-11.05.09-am.png)
+    - Total Addressable Market
+        - `TAM = Average revenue per user X total number of potential users in the market`
+        - Approaches to calculating TAM:
+            - Top Down
+                - You start with a high level view of the economy, and then narrow that down based on factors like demographics. For example, you usually will start will everyone in the world and narrow down that audience to people who are interested in your product.
+            - Bottoms Up
+                - This involves using known data points that you have (data from early customers and sales) that you could extrapolate to represent a larger market opportunity. For example, if you are already selling a product in one region and were considering selling it globally.
+            - Value Theory
+                - Generally used for new product categories where you don’t have much information to base estimates on. This involves conducting market research to understand how much people would pay for your product and how many potential customers you have.
+        - [ ] https://www.forentrepreneurs.com/calculating-tam/ 
+        - [ ] Exercise:
+            - TAM for streaming media services in US 
+            - Solution
+                - ![](https://video.udacity-data.com/topher/2020/January/5e174ff7_screen-shot-2020-01-09-at-11.08.13-am/screen-shot-2020-01-09-at-11.08.13-am.png)
+    - [ROI](<ROI.md>)
+        - $$\frac{(impact ~-~ amount~~ spent)}{amount ~~spent}$$
+        - Payback period:
+            - the amount of time that it takes to regain the initial cost of buildinng the product
+            - $$\frac{cost} {payback~~per~ year}$$
+    - Creating and Evaluating Hypotheses
+        - Create hypotheses to make sure that your assumptions about your product are correct -- and that you are solving a real problem for real people.
+        - Customer Need
+            - is this a real problem
+            - painkiller vs. vitamin
+        - Your solution
+            - does it really solve the problem
+            - what alternatives does the customer have?
+            - is solution way better?
+        - Differentiation
+            - is it different?
+            - how is it different, what does it do that others didn't
+        - Value
+            - does this solution create enough value for the user that they are willing to pay for it
+            - how much will people play for it
+            - what can you do to increase willingness to pay
+            - how much are they paying for current alternatives
+        - Evaluation a hypothesis
+            - ways:
+                - User Interviews
+                - Focus groups
+                - Surveys
+                - Design sprint
+            - show mocks, prototypes
+            - take help of researcher to do with minimal bias
+        - If you find that:
+            - You are not addressing a customer need
+            - Your solution isn’t providing value
+            - Your product isn’t differentiated enough
+            - There’s no willingness to pay…
+            - **Stop**. It’s not worth pursuing this idea in its current form because you won’t have product/market fit. You should go back and tweak which customer you are focusing on… or your solution.. Or pricing model.
+        - [ ] [Product development through hypotheses](https://www.etventure.com/blog/product-development-through-hypotheses-formulating-hypotheses/)
+        - [ ] [Customer Development with Steve Blank: Hypothesis Testing](https://www.startups.com/library/expert-advice/customer-development-steve-blank-hypothesis-testing)
+    - **Building a business case**
+        - Topics to cover in a Business case
+            - Business Problem
+            - Benefits
+            - Costs
+            - Risks
+            - Possible Solutions
+            - Timeline
+            - Competition
+        - Business Case: Components
+            - Executive Summary
+                - The Executive summary summarizes the entire document, including the recommendation. You want to make sure that it has enough detail that if it’s the only thing people read they will understand the justifications for building the product. It’s also the first thing people read and usually the last thing you will write to make sure that everything is cohesive.
+            - Problem Statement
+                -  The Problem Statement explains the problem you are trying to solve, as well as the associated goals. It should also clearly link the problem back to the business strategy and goals
+            - Analysis of Product Opportunity
+                -  In the Analysis of Product Opportunity section, you discuss the merits of why solving the problem is important. You’ll usually want to touch on the cost of the problem and the size of the opportunity. Additionally, you can discuss what would happen if you didn’t solve the problem.
+            - Possible Solutions
+                -  In the Possible Solutions section, you will describe the potential solutions to the problem. For each solution, you should discuss benefits, cost, timeline, and risks.
+            - Recommended Approach
+                - Recommended Approach section, you put forward your recommendation for which solution is the best and why.
+            - Other tips to keep in mind:
+                - Tailor it to your audience
+                - Shorter is better
+                - Make it interesting
+                - Demonstrate business value
+        - [ ] [Sample Business Case](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119198758.app1)
+        - [ ] [5 Steps to Write a Solid Business Case](https://www.chasegroup.com.au/five-steps-to-develop-a-solid-business-case)
+- ### Vision & Strategy
+    - Glossary:
+        - {{table}}
+            - Term
+                - Definition
+            - MVP
+                - Minimum Viable Product. An early version of your product with minimal features that you can take to market in order to get feedback
+            - KPI
+                - Key Performance Indicator. KPIs can be used to measure the success of the products.
+            - Revenue stream
+                - A source of revenue for a company, mostly commonly transaction based or recurring events
+            - Subscription
+                - A type of revenue model that generates recurring revenue. Users pay a fee on an ongoing basis in exchange for access to your product.
+            - Licensing
+                - A revenue model that generates transaction based revenue. Users purchase a one time license to use your software on an ongoing basis
+            - Pay per use
+                - A revenue model that generates transaction based revenue. Users pay a fee every time they use your product.
+            - Freemium
+                - A revenue model that gives a small part of your product away at no cost to users with the ultimate goal of converting users to paid users in order to gain access to the full product.
+            - CPC
+                - Cost per click.
+            - CPM
+                - Cost per 1000 impressions.
+            - CTR
+                - Click through rate.
+    - Vision
+        - **What is Vision?**
+            - What your product looks like in its final state
+            - Essence of your product
+            - What your product does and why it matters to users
+            - Can be summarized in a sentence or two
+        - **Vision needs to tell a story about:**
+            - What you’re building
+            - Who it’s for
+            - Why it matters
+        - __"If you are working on something exciting that you really care about, you don't have to be pushed. The vision pulls you."__   - [Steve Jobs](<Steve Jobs.md>)
+        - **__Vision will impact every single aspect of your product so it is important to be thoughtful when you are crafting your vision.__**
+        - Vision serves as a North Star-- it’s aspirational and gets the team excited!
+        - You’ll want to make sure that your vision is all of the following:
+            - Inspiring
+            - Ambitious
+            - Easy to explain
+            - Something the team believes in
+            - Something you evolve over time
+            - Something you share out frequently
+        - [ ] [Product Vision](<Product Vision.md>)](https://www.productplan.com/glossary/product-vision/)
+        - [ ] [4 Experts Reveal How to Create a Strong Product Vision](https://blog.hubspot.com/service/product-vision)
+    - Strategy
+        - Strategy is all about how you get to you vision
+            - User needs: 
+                - Who is your target user? 
+                - What are their needs?
+            - Key features: 
+                - What are right mix of features and functionality that solve the user's need?
+                - Will these features result in people usinng the product?
+            - Competitors & Differentiation
+            - Business Goals
+                - how can you measure these goals
+            - Trends
+                - How is market changing over time
+                - How are user behavior and needs changing?
+        - Your strategy should be...
+            - A balance between features, user and market needs, and business goals
+            - Creating building blocks for how to get to your vision
+            - High level, but with a little more detail
+            - Goal oriented, and preferably measurable
+        - [ ] Further readings
+            - [What is Good Product Strategy?](https://medium.com/@melissaperri/what-is-good-product-strategy-8d5587cb7429)
+            - [Product Development Strategy Defined](https://www.thisisproductmanagement.com/blog/product-strategy/)
+            - https://www.productplan.com/thinking-themes-organize-product-roadmap-show-customer-value/
+    - Business Models
+        - A business model describes how a business creates, delivers, and captures value
+        - ![](https://video.udacity-data.com/topher/2020/January/5e17ac2e_screen-shot-2020-01-09-at-5.41.38-pm/screen-shot-2020-01-09-at-5.41.38-pm.png)
+        - The business model canvas includes the following components:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FrhaBVRVxcc?alt=media&token=bb236421-39d7-4b83-bfda-ce488a475f4a)
+            - Key Partners - help build or deliver the product to users
+            - Key Activities - what you need to do to build and deliver the product
+            - Key Resources - things that you need to build the product
+            - Cost Structure - cost of building the product
+            - Value prop - why people would want your product
+            - Customer Relationships - how you build relationships
+            - Channel - how you get the product to customers
+            - Customer Segments - different types of customers
+            - Revenue Streams - how you get money from customers
+                - Ads
+                - Purchase / Licensing
+                - Pay per use
+                - Subscription
+                - Freemium
+        - [ ] Exercise:
+            - Fitness tracker business model canvas
+            - Solution
+                -  ![](https://video.udacity-data.com/topher/2020/January/5e17aef0_screen-shot-2020-01-09-at-5.53.23-pm/screen-shot-2020-01-09-at-5.53.23-pm.png)
+        - [ ] Further:
+            - [Business Model Canvas Examples](https://corporatefinanceinstitute.com/resources/knowledge/strategy/business-model-canvas-examples/)
+            - [10 Most Popular Startup Revenue Models](https://fi.co/insight/the-10-most-popular-startup-revenue-models)
+    - Competitive Analysis
+        - Competitive analysis in its simplest form is identifying other similar products in the market, including the users each product is targeting.
+        - Understand and think about:
+            - Product offering and key features
+            - Differentiators
+            - Target customers
+            - Distribution channels
+            - Price points
+        -  At a high level, competitive analysis includes:
+            - Looking at competing products in the market
+            - Understanding strategy behind competing products
+            - Identifying strengths and weaknesses of each product
+            - Anticipate shifts in the market and trends
+        - {{table}}
+            - **Product offering**
+                - **Key features**
+                    - **Differentiators**
+                        - **Target customers**
+                            - **Distribution channels**
+                                - **Price points**
+            - **Competitor 1**
+            - **Competitor 2**
+            - **Competitor 3**
+            - **Competitor 4**
+            - **Competitor 5**
+        - Exercise: Fitness tracker; Solution:
+            - ![](https://video.udacity-data.com/topher/2020/January/5e17afc0_screen-shot-2020-01-09-at-5.56.48-pm/screen-shot-2020-01-09-at-5.56.48-pm.png)
+    - MVP
+        - [Leading Fast Innovation: 10 Shades of MVP - Product-Led Festival by Product-Led Alliance](https://festival.productledalliance.com/talks/dont-fail-fast-learn-fast-building-a-test-and-learn-culture/?wvideo=ps91iqyinv)
+        - An **MVP**, or __minimum viable product__, has just enough features to get early adopters excited. After launching an MVP, you’ll get a lot of feedback that will help you understand if you have product market fit and what areas you should invest in next
+        - MVP helps to:
+            - Get product to market fast
+            - Get feedbacck from real users
+            - Fail fast
+        - To create an MVP:
+            - Start with the business model canvas
+            - Weigh against competing solutions
+            - Make sure it’s aligned with business objectives
+            - Translate to requirements
+            - Identify KPIs
+        - By definition, an MVP is only **must have** features.
+        - [ ] further reading
+            - [What is an MVP?](https://blog.leanstack.com/minimum-viable-product-mvp-7e280b0b9418)
+            - [Types of MVPs and Examples](https://mlsdev.com/blog/minimum-viable-product-examples)
+            - [15+ Examples MVPs](https://softwarebrothers.co/blog/15-examples-of-successful-mvps/)
+    - KPIs
+        - Key Performance Indicators, metrics that measure the performance of your product against your strategy.
+        - some Areas
+            - Business
+            - Product
+            - Quality
+            - Development
+        - Tips
+            - Don't measure everything and focus on essential KPIs
+            - Pick KPIs that align with user, product and business goals
+            - Make suer KPIs are measurable and team agrees on how to measure those
+        - Example: Zoom KPIs
+            - Business
+                - ARPU
+                - Conversion to subscription
+                - Churn
+            - Product
+                - Weekly Active Users
+                - Average # calls per user per week
+                - Average time to first call
+                - Individual Feature Usage
+            - Quality
+                - % of calls delivered in HD
+                - Average rating per call
+                - Support contact rate
+                - Uptime
+            - Development
+                - On time delivery
+                - Outages per month
+                - Team Velocity
+        - [ ] Exercise: KPIs for fitness tracker; Solution:
+            - ![](https://video.udacity-data.com/topher/2020/January/5e17b186_screen-shot-2020-01-09-at-6.04.26-pm/screen-shot-2020-01-09-at-6.04.26-pm.png)
+        - [ ] Further:
+            - [4 Things to Remember When Defining KPIs](https://blogs.oracle.com/datascience/4-things-to-remember-when-defining-kpis)
+            - [18 KPI Examples Explained](https://www.clearpointstrategy.com/18-key-performance-indicators/)
+- ### Communication Skills
+    - It is super important to effectively communicate about the product and get people exciting.
+    - Glossary:
+        - {{table}}
+            - Term
+                - Definition
+            - Ethos
+                - The Greek word for character, describing the credibility of an individual
+            - Logos
+                - The Greek word for reason or logic
+            - Pathos
+                - The Greek word for emotion
+            - BATNA
+                - Best Alternative To a Negotiated Agreement. If negotiations were to fail, BATNA is the next best option
+    - [Active Listening](<Active Listening.md>)
+        - More than just listening
+        - Being an engaged listener
+        - Fullly understanding other points of views
+        - Not imposing your own views
+        - Why
+            - Builds relationships
+            - Promotes understanding
+        - Tips:
+            - Make eye contact and smile
+            - Observe body language
+            - Provide encouragement
+            - Don't interrupt
+            - Ask clarifying questions when needed
+            - Paraphrase
+        - [ ] [How to Practice Active Listening](https://www.verywellmind.com/what-is-active-listening-3024343)
+    - Story Telling
+        - __PMs are storytellers__
+        - Powerful tool to create more tangible narratives of **__WHAT__ and __WHY__**
+        - Stories have emotional element which makes audience to take action
+        - Creates excitement among the team and they're going to care about solving the problem and be invested in it.
+        - Elements of a story:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FmCQI_8BvIY?alt=media&token=bc28c24e-d9c7-48ca-970f-bbccddb73b5b)
+        - What goes into crafting a story
+            - Start with the big picture
+            - What's the problem? Why?
+            - How the hero and your product get to the resolution ( the more personal, the better)
+            - So what? Describe the impact and conclusion
+        - Tips
+            - Keep it simple ( Tell the same story, just in half the time)
+            - Make it memorable
+            - Show, don't tell
+            - Practice
+            - Details and specifics make the story fell more real
+        - [ ] Future:
+            - [Storytelling that Moves People](https://hbr.org/2003/06/storytelling-that-moves-people)
+            - [How Pixar’s 22 Storytelling Rules Apply to Your Business](https://fizzle.co/sparkline/pixars-22-rules-of-storytelling)
+    - Being Persuasive [Persuasion](<Persuasion.md>)
+        - Types of persuasion
+            - Ethos (credibility)
+            - Pathos (emotion)
+            - Logos (logic)
+        - How to build persuasive messages
+            - Know your audience
+            - Pick a viewpoint
+            - Know the other perspectives
+            - Be data driven
+            - Discuss objections
+                - You should address objections without being rushed to really understand the viewpoint and its merits. This will also help you to build credibility with the audience-- showing that you care about their opinion and are interested in getting to the best solution.
+            - End with a call to action
+        - [ ] Further
+            - [The Science of Persuasion](https://buffer.com/resources/the-science-of-persuasion)
+            - [Want to Be Extremely Persuasive? 9 Science-Backed Ways to Become a Better Leader](https://www.inc.com/jeff-haden/want-to-be-exceptionally-persuasive-9-science-backed-ways-to-become-a-better-lea.html)
+            - [21 Principles of Persuasion](https://www.forbes.com/sites/jasonnazar/2013/03/26/the-21-principles-of-persuasion/)
+    - [Presentations](<Presentations.md>)
+        - ^^Simplify^^
+        - Introduction
+            - "this is what i'm goint to tell you"
+            - background and important context
+            - capture attention
+            - memorable
+        - Body
+            - "this is what we're hre to talk about"
+            - details
+        - Conclusion
+            - " this is what I just told you"
+            - summarize the presentation
+            - bring up any next steps
+        - Rules:
+            - Keep slides simple
+            - One takeway per slide
+            - Limit the text
+            - Use visuals carefully and intentionally
+        - Tips:
+            - Presentation needs to stand on its own
+            - Rehearse
+            - Pre-brief key stakeholders before big presentation
+        - [ ] Future:
+            - [Top 10 Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
+            - [21 Examples of Great Presentation Design](https://blog.hubspot.com/blog/tabid/6307/bid/6012/17-examples-of-great-presentation-design.aspx)
+            - [Quite Possibly the World’s Worst PowerPoint Presentation Ever](https://www.apa.org/gradpsych/2012/01/worst-powerpoint-ever.pdf)
+            - [Bad PowerPoint Examples You Should Avoid at All Costs](https://24slides.com/presentbetter/bad-powerpoint-examples-you-should-avoid/)
+        - [ ] Practice:
+            - Create a presentation:
+                - Why you should avoid using your smartphone before bed
+                - At least 10 slides
+                - What are the key takeaways
+                - What visuals can you use to support your presentation
+            - Practice.
+            - Present to a friend:
+                - Ask for feedback
+                - Were there any parts that were confusing?
+                - What was the most important takeaway?
+    - Negotiation
+        - Strategies for negotiation:
+            - BATNA
+            - Focus on interests
+            - Make the pie bigger
+            - Use objective criteria
+            - Multiple solutions
+        - Tips for negotiating:
+            - Build strong relationships
+            - Use active listening
+            - Keep emotions in check
+            - Work together to find a solution
+        - The different styles of negotiation include: competitive, collaborative, compromise, avoidance, and accomodation. Collaborative is the best approach when working with your team or company.
+        - [ ] Further Research
+            - [Negotiation Skills for Product Managers: 5 Things You Need to Know](https://medium.com/pminsider/negotiation-skills-for-product-managers-5-things-you-need-to-know-ec474f743d54)
+            - [5 Highly Effective Negotiation Tactics Anyone Can Use](https://www.inc.com/jeff-haden/tk-highly-effective-negotiation-tactics-anyone-can-use.html)
+            - [4 Ways to Practice Your Negotiation Skills](https://blog.blackswanltd.com/the-edge/use-it-or-lose-it-4-ways-to-practice-your-negotiation-skills)
+        - {{table}}
+            - STYLE
+                - SCENARIO
+            - Competitive
+                - Getting exactly what I want
+            - Collaborative
+                - Working together to find a solution where everyone is happy
+            - Compromise
+                - Giving up some things in order to get some things in return
+            - Avoidance
+                - Not comfortable in situations where there’s conflict
+            - Accommodation
+                - Agreeing to something in order to preserve a relationship, even though it’s not in my best interest
+        - 
+- ### __Pitch a Product Vision__
+    - Kaiser Permanente is looking to enter into the preventative care space to help their patient base increase physical activity and improve on healthy habits. While the overall goal is improved patient satisfaction and well being, the specific financial goal is reduced cost by emphasizing improved health prior to any adverse conditions developing. Overall, KP wants to decrease spending on conditions such as type 2 diabetes.
+    - Your team is tasked with researching the potential costs, features and benefits of a mobile application that communicates with KP patients and helps them improve on healthy habits.
+    - Kaiser Permanente is one of the nation's largest not-for-profit health plans, serving 12.2 million members.
+        -  Comprises:
+            - Kaiser Foundation Health Plan, Inc.
+            - Kaiser Foundation Hospitals and its subsidiaries
+            - The [Permanente Medical Groups](https://permanente.org/)
+        - __Direct Written Premium: $93.2B__
+        - Annual operating revenue 2018: $79.7B, Operating income: $1.9B
+        - __Market Share: 8.42% __ — via [NAIC 2018 MARKET SHARE REPORT](https://www.naic.org/prod_serv/MSR-HB-19.pdf)
+        - Initial findings
+            - __Obesity is the most important single risk factor for Type 2 diabetes__ — via [International Diabetes Federation: a consensus on Type 2 diabetes prevention - Alberti - 2007 - Diabetic Medicine - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1464-5491.2007.02157.x)
+            - __The diet intervention alone was associated with a 31% reduction, while the exercise intervention alone showed a 46% reduction in the risk of developing Type 2 diabetes.__ — via [International Diabetes Federation: a consensus on Type 2 diabetes prevention - Alberti - 2007 - Diabetic Medicine - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1464-5491.2007.02157.x)
+            - ____ — via [](https://www.cdc.gov/physicalactivity/downloads/trends-in-the-prevalence-of-physical-activity-508.pdf)
+            - https://www.ncbi.nlm.nih.gov/books/NBK11795/table/A6353/?report=objectonly
+            - __In a meta-analysis of 21 prospective studies, higher levels of leisure time physical activity were associated with a 21% reduction in CHD events for men and a 29% reduction in women.5 __ — via [Physical Activity and Exercise for Secondary Prevention among Patients with Cardiovascular Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3879796/)
+            - ![177 billion dollars](https://www.cdc.gov/physicalactivity/about-physical-activity/images/117-billion.png) **in annual health care costs are associated with inadequate physical activity.**
+            - Physical Activity Saves Lives and Protects Health
+            - Getting enough physical activity could prevent **1 in 10 premature deaths**
+            - **It could also prevent:**
+                - **1 in 8** cases of breast cancer
+                - **1 in 8** cases of colorectal cancer
+                - **1 in 12** cases of diabetes
+                - **1 in 15** cases of heart disease
+            - __Early detection is key__ — via [Diabetes and eye health: Making the connection | Kaiser Permanente](https://about.kaiserpermanente.org/total-health/health-topics/diabetes-and-eye-health-making-the-connection)
+            - __ Colditz (1999) estimates that obesity is responsible for 7 percent of all U.S. direct health care costs and that inactivity is responsible for an additional 2.4 percent of all health care costs. __ — via [Prevention of Chronic Disease by Means of Diet and Lifestyle Changes - Disease Control Priorities in Developing Countries - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK11795/) 
+            - __all four of the healthy habits combined were linked to a:__
+                - 93% lower risk of type 2 diabetes
+                - 81% lower risk of heart attack — via [4 Healthy Habits That Cut Disease Risk](https://www.webmd.com/balance/news/20090810/4-healthy-habits-that-cut-disease-risk)
+                - 50% lower risk of [stroke](https://www.webmd.com/stroke/default.htm)
+                - 36% lower risk of [cancer](https://www.webmd.com/cancer/health-check-cancer-risk/default.htm)
+            - ![](https://www.cdc.gov/chronicdisease/images/about/Health-Costs.png)
+            - __ In 2017, the total estimated cost of diagnosed diabetes was $327 billion in medical costs and lost productivity__ — via [Health and Economic Costs of Chronic Disease | CDC](https://www.cdc.gov/chronicdisease/about/costs/index.htm[ref1](<ref1.md>))
+            - Obesity costs the US health care system $147 billion a year.[6](https://www.cdc.gov/chronicdisease/about/costs/index.htm[ref6](<ref6.md>))
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FQiZbrAAYAo?alt=media&token=4520e45f-e318-451f-80eb-86e5abf5e4c8)
+            - __In August 2018, it was found that 12% of millennials had been told by a health care provider they had overweight, 7% obesity.__ — via [• Millennial health conditions United States 2018 | Statista](https://www.statista.com/statistics/704953/health-conditions-of-millennials-in-us/)
+            - 
+    - Why us?
+        - 23,371 Physicians can periodically assist with improvements and suggestions
+        - Integration of popular physical trackers into one
+        - Ad free for KP members
+        - Huge initial network effect with existing 12 Million members
+        - Social profile sharing, group physical activity
+        - Quick chat, online consultation from  23371 physicians of KP to set personalised goals
+        - Combining all types of workouts, running, cycling so that users can track everything from a single app
+        - Food, water,  tracking, sleep,and nutrition guides and tracking
+        - Push notification for healthy habits reminder and habit tracking
+        - Unique research based content from KP researchers
+    - App features
+        - Tracks energy usage
+        - notifies of regular healthy habits
+        - tracks habits
+    - Private estimations
+        - __the report states that about 75% of the uses go through the fitness apps at least twice a week and the rest 25% navigate these apps 10 times a week!__ — via [How Much Does it Cost to Develop a Health & Fitness App like Fitbit](https://www.mindinventory.com/blog/health-fitness-app-development-must-have-features-and-cost-estimation/)
+        - https://www.octalsoftware.com/blog/cost-of-developing-a-health-fitness-mobile-app
+        - https://mlsdev.com/blog/create-a-fitness-app
+        - [ ] https://www.endivesoftware.com.au/cost-to-build-a-health-fitness-mobile-app
+        - https://themindstudios.com/blog/how-to-develop-an-app-like-strava/
+    - Marketing:
+        - [ ] https://www.essay48.com/marketing-strategy/6483-Strava-Marketing-Strategy
+    - Video Script
+        - Context:
+            Kaiser Permanente is looking to enter into the preventative care space to help their patient base increase physical activity and improve on healthy habits. While the overall goal is improved patient satisfaction and well being, the specific financial goal is reduced cost by emphasizing improved health prior to any adverse conditions developing. Overall, KP wants to decrease spending on conditions such as type 2 diabetes.
+            Your team is tasked with researching the potential costs, features and benefits of a mobile application that communicates with KP patients and helps them improve on healthy habits.
+            
+        - 10 Minutes, 20 slides: 30 seconds per slide: approx 60 words
+        - {{word-count}}
+            - {{word-count}}
+                You know an intriguing fact?.........simply with enough physical activity we can prevent more than dozen diseases and even improve..... life expectancy,
+                ....aaalll which is costing 170 Billlliiion dooollars to our nation
+                So today we will be discussing our research ... on entering into the preventive health care space,.... with an emphasis to improve our patients health .... and to reduce our costs with an interesting project.
+            - {{word-count}}
+                So, why did we choose this focus, we, Kaiser Permanente ..... as leading non-profit organization have a potential to save lives and lower huge risk chances for many conditions and diseases. 
+                Jussssttttt with enough physical activity and healthy habits, we can have a tremeenndous impact on our members by improving their health priior to development of any conditions
+            - {{word-count}}
+                To speak in numbers, considering just type 2 diabetes which is affecting 10 percent of our citizens and costing a whoppping amount of 330 billion dollars
+                buuuuttt with proper physical activity we can lower **46%** cases and we could save 12 billion dollars per year considering only with diabetes. **(__next slide__)**
+                if we consider other diseasessss we can save 20 billion dollars or 22 percent of direct premiums written in 2019
+            - {{word-count}}
+                imagine an app which monitors your whole health, warns you of any dangers, suggests you of necessary actions, lets to ask quick help from your physicians, connects with every member, inspires you to take action. 
+                That's the app we are proposing to improve the health of our members
+            - {{word-count}}
+                To build such a fully featured app, it would cost us an investment of 50 thousand dollars and extra for monthly updates and maintainence
+                but when its compared to the impact even if just 10% of our members used and quarter of them on a streak of achieving goals we can save around 600 million dollars per year, that is ... returns on investment would 400%
+            - {{word-count}}
+                We will know if we have reached our Kaiser permanente mission to improve health by keeping track of metrics like daily active user, users feedback and rating, growth of number of installs and how many them are achieving their prescribed goals
+            - {{word-count}}
+                This domain is not completely new and we have a few competitors focusing on various features 
+                main category of competitors would be social fitness apps like strava and runtastic which focus on network effect to gain new users and subscriptions for revenues. Strava.... which currently tops the chart has 50 million users
+                they also include various free and premium features for tracking, visually analysing and measuring achievements.
+            - {{word-count}}
+                another category of competetors are apps provided as a companion for wearable trackers. that market currently has 20 percent growth rate
+                though they were found of little use to improve health.... they provide accurate metrics of vital signals and are able to track many types of activities, also providing visual dashboards and useful guides
+            - {{word-count}}
+                well we have to provide whole these features with our value propositions, thanks to 20 thousand KP physicians instead of AI based support we can provide unique assistance to all our members
+                we will not only be just showing the dashboards but also useful insights on thier performance
+                we can use existing network of researchers to establish a direct communication channel  and provide useful notifications
+                we would be providing all the essential features ad free for 12 million KP registered members which will boost our network effect with rockets
+            - {{word-count}}
+                the vision for the roadmap to achieve our goals is: .... to build an app that completely cares about the well being of users, prevents them from adverse conditions before suffering. the strategy will be to start by providing essentia features, via the MVP to needy patients suggested by doctors, next launching with the social community and all other useful features to our members and public and then providing connectivity to the in-house doctors
+            - {{word-count}}
+                for the first theme of physical activity assistance, features include trackability of all the metrics reagrding to various aspects of health , to analyse those metrics, show performance and suggest personalised targets based on hardness. these help the users to know where they stand and put efforts in a right and smart way. 
+                by initial MVP we can get to know the actual painpoints and align regardingly
+            - {{word-count}}
+                now comes the most important theme for growth....... to create social effects, connect everyone having common goals, demographics so that they have accountability partners, 
+                by having competitions, leaderboards, hall of fame and other gamified concepts users engagement will be improved not only from KP members but also other users across from the nation
+            - {{word-count}}
+                Final theme is to integrate all existing KP health system to provide periodical monitoring of more needy patients, curate personalized plans based on unique physical conditions, and ways for them to have quick chats and consultations from inside the app itself. 
+                also All the staff will be giving important and useful updates for added motivation.
+            - {{word-count}}
+                - after achieving these milestones for the first year we can widen our scope by adding content of videos and audios for how tos, chatbots for common nutritional and health queries, support with popular wearables for accuracy and integrate artificial intelligence for early warning of potential health conditions with the data daily captured from apps and devices
+            - {{word-count}}
+                - So hope you like the product vision and pitch and consider this as good investment. Thanks.
+    - Project Review: Meets Specifications
+        __Dear @Siddish,__
+        __Congratulations!! :tada: :tada:__
+        __Excellent work! Your submission has passed all the rubric of this project. All the effort you put in to complete the project are very much appreciated and it was my pleasure reviewing your work. Your work has been hands-down one of the best projects that I have reviewed so far, all the details are immaculate and exceptional.__
+        __You are good to go. Keep up the great work and good luck with future projects! [:muscle:]__
+        __Hope my review and motivation helps you improve as you go on. Good luck for your future projects.__
+        __Stay safe!__
+        **Individual Section:**
+            - Business Case
+            - Have you outlined a problem worth solving? This isn’t just a fun product to build, it should be a product that solves someone’s pain.
+            - Have you clearly articulated what that pain is? For example, in our sample project, we articulate the pain of “we are wasting 33 million a year in health care costs on diabetes care that could be saved”. That’s pain, and it’s pain that someone might be interested in solving.
+                - Included specific metrics to back up your claim
+                - Included potential cause(s)
+                - Included a call to action that would resonate with stakeholders
+            - __Fantastic work in identifying the problem space. The cause and effect details were explanied very well. ![:clap:]__
+            - Have you quantified the size of the opportunity? It can’t be something as all-encompassing as “the market for diabetes treatment is $300B”.
+            - What piece of this market are you approaching? How big is it? Why only this piece? TAM (Total Addressable Market) should usually be counted in billions. Anything with a B in front of it is probably a good TAM. That said, your focus area will have a return significantly lower than the total TAM.
+            - Use links and sources where possible. This doesn’t need to be comprehensively footnoted, but quotes and numbers are always more believable when the source is mentioned
+            - __Exceptional work in identifying the TAM for this project. Including a quote from the doctor was pretty impressive. It helps build an emotion towards the topic. Keep it up!__
+            - State what you want to build. Give brief details at a high level of functionality, just enough for readers to understand the proposal
+            - Have you outlined a clear solution to that problem? Will a reader or viewer understand what you’re proposing to build? It can’t be something vague like “I will build a marketplace!” It has to be specific. What kind of marketplace? What does it do? How is it special? What audience does it address?
+            - __Clear and concise. Great stuff! ![:muscle:]__
+            - What do you think this will cost? What do you think this will produce in terms of revenue or cost savings? What is the return on investment?
+            - You don’t need to provide an extremely detailed business case here, that’s usually provided as supporting material. Detailed spreadsheets are often too brittle because they rely on numerous assumptions, any one of which being wrong will throw the entire ROI calculation off. Think simple calculations instead. X months of development * 10k each / some simple measure of return.
+            - __Great job on your calculations. I like how it is broken down! Realistic ROI that every investor would like to see.__
+            - How will you measure the success of your idea? What is the goal for the first year?
+            - __Another impressive section, very well laid out. Here are a couple of resources that might aid you in the future for better value add to your project,__
+            - [ ] https://www.bbntimes.com/companies/how-to-measure-the-success-of-your-business-idea
+            - [ ] https://www.forbes.com/sites/mikekappel/2017/03/08/6-ways-to-measure-small-business-success/[6e5cb84218f4](<6e5cb84218f4.md>)
+            - ### Competitors
+            - Outline at least two competitors. Remember that these don’t need to be exact competitors but might be companies in the same general field. For example, YouTube competitors might be Amazon Video but they may also be traditional TV networks. You may want to highlight a category of competitors instead of a specific one (e.g. Traditional TV networks as opposed to NBC)
+            - For each competitor give a brief overview of at least 4 features. Provide enough so that the audience can understand their offering.
+            - __[ Wasn't given any verbal feedback, just green tick]__
+            - Then follow this up with a slide outlining why your product is better. This slide should answer the question of “why us?” Why should a buyer choose your product as opposed to one of the competitors?
+            - Remember that the best competitive advantages are ones that are hard for competitors to match. For example, network effects, unique business partnerships, and unique content are hard for competitors to match. Pricing is not.
+            - __Couldn't agree with you more on this section. With the limited available public information, you've outlined great details. Kudos! ![:raised_hands:]__
+            - ### Roadmap and Vision
+            - **What is your vision?**
+            - Is there a strategy behind the roadmap or is it simply a list of follow up items? A strategy means a goal. Provide at least 2 themes corresponding to the future strategy of the product.
+            - For example, your strategy might be “expand into other geographical markets by investing in UI translations and regional specific features”.
+            - __Hands-down the best section in your pitch. Loved seeing how realistically you've identified KP's strengths and put them into good use. You are a pro! [:smile:]__
+            - For each strategic theme, provide two or three features that you want to develop for this theme along with a brief explanation on each.
+            - The list of features on the roadmap should flow from your vision and strategies.
+            - __Fantastic work, again! Ticked all the right boxes for me!__
+            - ### Presentation & Delivery
+            - Use the provided template and fill out the slides applicable to your product. Don’t try to invent a new process where one already exists. Don’t try to make what you’re doing “special”. Follow the process. In this case, we are providing you with a template. In real-life scenarios, you can find a template through other PM’s at your company. Don’t reinvent the wheel and don’t bring an unfamiliar template to your stakeholders if they’re used to information being presented a certain way. It’s distracting and will detract from your message.
+            - Additionally, pay attention to the way that you craft your presentation. Visually, this also means the manner in which your slides are created. General rules for slides:
+                - Each slide should have a key take away
+                - Content on each slide should be focused on supporting the key takeaway
+                    - A slide shouldn’t have more than 5 top-level bullets
+                        - Each top-level bullet should not have more than 3 sub-bullets
+                        - Each bullet or sub-bullet should not have more than one complete sentence. Preferably, each bullet or sub-bullet is just a sentence fragment
+                - Formatting (font, sizes, etc) should be consistent. Be careful of text you copied and pasted into the presentation, it will frequently carry over its own formatting
+                - Use at least 3 visuals (like graphs and images) when appropriate to make it easier to understand your message
+            - __You've kept the deck plain and simple which is a great thing. Simplicity goes a long way in convincing people that your idea is neat and informed. Well done! ![:clap:]__
+            - Create a video recording of yourself giving your presentation. You’ll want to make sure to do a screen capture of your slides, as well as the audio of you explaining each slide.
+            - On a Mac, you can use QuickTime Player.
+            - On a PC you can use the built-in Screen Recording Tool (Windows 10).
+            - There are also many other free apps available for recording your screen and audio (including [Zoom](https://www.zoom.us/))
+            - Note: Make sure you are also capturing audio from your microphone
+            - Remember, your presentation should be 10 minutes and no longer. Pitch presentations are usually short on time and you need to practice delivering your idea in a succinct manner.
+            - Make sure that you have smooth transitions between all slides and topics.
+            - Make sure you are able to speak to the idea instead of just reading off bullet points? You need to know your product. If it feels like you’re reading bullet points, people will lose confidence. And watch out for pauses (unless for dramatic effect)
+            - Do you sound positive and confident when talking about your product idea? You are the cheerleader for your product. You are always positive about it. You always believe in it. If you don’t, no one will.
+            - __Clear and confident pitch delivery, 10/10 for this!__
+            - Use the three different types of persuasion when building and delivering your presentation:
+                - Credibility
+                    - Use and cite credible sources when appropriate (at least 2)
+                - Emotion
+                    - Include a message that makes your audience feel a specific way
+                - Logic
+                    - Present facts
+            - __Lastly, fantastic job on using credible sources to back your facts!__
+
+# Backlinks
+## [August 28th, 2020](<August 28th, 2020.md>)
+- **__Dominance Friction__** via "Divinations:  Business Strategy" #[Product Strategy](<Product Strategy.md>)
+
+## [DIY MBA](<DIY MBA.md>)
+- **Retention + Engagement Deep Dive** [Course](<Course.md>) [Syllabus](<Syllabus.md>) #[Product Strategy](<Product Strategy.md>)
+
+## [Product Management](<Product Management.md>)
+- ### [Product Strategy](<Product Strategy.md>)
+
+## [Reading](<Reading.md>)
+- [Strategy](https://sriramk.com/strategy) #[Product Strategy](<Product Strategy.md>)
+
+## [Startup](<Startup.md>)
+- [Product Strategy](<Product Strategy.md>)
+
+## [articles](<articles.md>)
+- https://www.lennyrachitsky.com/p/getting-better-at-product-strategy #[Product Strategy](<Product Strategy.md>)
+
+## [“My Team Has a Prioritiz... (highlights)](<“My Team Has a Prioritiz... (highlights).md>)
+#[Product Strategy](<Product Strategy.md>)
+

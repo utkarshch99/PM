@@ -1,0 +1,445 @@
+- Meta:
+    - **[Tags](<Tags.md>):** 
+    - URL: https://classroom.udacity.com/nanodegrees/nd036/
+- https://productmanagerhq.com/ultimate-associate-product-manager-guide/
+- https://drive.google.com/drive/folders/1Yll13yt4WmWWftfwyeq_eb4iWiGG6kVM Product Con Slides
+- ### [Progressive Ideation](<Progressive Ideation.md>)
+    - **If you are not solving the right problem, your product will fail**
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FZxzOr3-9xb?alt=media&token=345e0036-405a-4437-a1c4-5d9a115202c4)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2F5kfaHm9IHL.png?alt=media&token=0c72af6f-3929-4377-a025-a6447d2d84b8)
+- ## Introduction to Product Management:
+    - Product Mangers == Mini CEOs
+    - Product Managers spend a lot of their time:
+        - Identifying/defining problems
+        - Creating a strategy
+        - Communicating
+        - Coordinating development
+        - Responding to fires
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FqDFGhAMupL.png?alt=media&token=c1a46f09-1a3b-47a6-a1e0-145a1060fb46)
+    - Which in turn, allows them to strategically answer important questions:
+        - What are we building?
+        - Who are we building this for?
+        - Why are we solving this problem? / Why are we building this specific solution?
+        - When are we building this?
+    - Product Management plays an important role in connecting and aligning all the relevant teams needed to build and launch a product.
+    - Product Managers identify and define problems for the team to solve while making sure that:
+        - the problem is real
+        - the users are real
+        - the solution provides value
+    - __Quick History of Product Management:__
+        - McElroy's Memo at Proctor and Gamble: "Brand Men" 1931
+            - Fully responsible for the brand, sales, advertising
+            - Studying things personally at first hand
+        - Hewlett and Packard met McElroy in 1930  and had HPs key strategies 
+ and decision making revolving around customer as much as possible
+        - 1960s Japan: 
+            - add missing japanese word which indicates constant change to growth/evolve  TODO
+            - Genchi genbutsu - real location, real thing
+- ## Role of a PM:
+    - [Lenny Rachitsky](<Lenny Rachitsky.md>) PM Role fit from[ How to Get into PM](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf)
+        - Solving people’s problems (both your users’ and your team’s) 🙇‍♂️
+        - Driving business growth 📈
+        - Working closely with a variety of people 👨‍🎤
+        - Developing a strategy 🤔
+        - Getting shit done ✅
+        - Leading a team (through influence, not authority) 🤝
+        - Communicating often and broadly 🗣
+        - Making decisions 👍
+        - Creating amazing experiences for people 👌
+        - Being organized, detail oriented, and prepared 😎
+    - PMs key activities involves:
+        - At the end of the day the role of PM is to ensure that the team is building the right thing and it is successfully building it.
+        - Idea to Launch
+        - Drive teams to alignment
+        - Identify and define problems
+        - Prioritize
+        - Communicate
+        - Coordinate
+        - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FqDFGhAMupL.png?alt=media&token=c1a46f09-1a3b-47a6-a1e0-145a1060fb46)"
+    - Product Developer philosophies are:
+        - Product led
+        - Engineering led
+        - Product + Eng partnership
+    - Product Manager's specializations:
+        - Software
+            - Define requirements for a mobile app
+        - Hardware
+            - Defining requirements for a physical device
+        - Growth
+            - [Course](<Course.md>) https://growth-minded.teachable.com/courses/enrolled/912411
+            - Define requirements for new user onboarding
+        - Internationalization
+            - Define requirements to launch in a new market
+        - Data
+            - Define requirements for machine learning algorithms
+    - Product Management timeline
+        - **Identifying Problems**
+            - Define the problem
+            - Understand user & needs
+            - Conduct market & [User Research](<User Research.md>)
+        - **Creating Solutions**
+            - Strategy for how to solve
+            - What the product does
+            - How it relates to goals & KPIs
+        - **Planning**
+            - Timelines coordinating with teams
+            - Splitting into milestones
+        - **UX Design**
+            - Mocks and specs
+            - Review and provide context
+            - Usability Testing
+        - **Implementation**
+            - Are requirements clear?
+            - What edge ccases haven't we though of yet
+            - Are we on track
+        - **Testing**
+            - Scenarios working as it should work
+            - Does it work?
+            - What needs to fixed
+        - **Launch**
+            - Silent Launch / Big announce
+            - Slow roll
+        - **Review**
+            - How did things go?
+            - What was the impact?
+        - 
+        - **__Communicating all the time__**
+        - **__Coordinating all the time__**
+        - **__Keeping the Team Happy All the Time__**
+    - Who do PMs work with? __Everyone__
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FJI8oA4YLVA?alt=media&token=54a0159d-0687-4e04-aed3-66bd1504dc92)
+        - **[User Research](<User Research.md>)ers**
+            - Role:
+                - Discover key User insights and behaviors
+                - Help answer important questions
+                - Get feedback from usability testing
+            - Interactions:
+                - Align on research priorities & questions to answer
+                - Share research findings
+                - Participate in research together
+        - **Designers**
+            - Role
+                - Design what the product should look like, and how users should be able to interact with the product
+                - Make sure right the problems are solved for the users easily
+            - Interactions:
+                - Align on problem definition and sccope
+                - Review PRDs and mocks
+                - Compromise on ideal design solution vs technical and timeline limitations
+        - **Engineers**
+            - Role
+                - Solve challenging technical products
+                - Build what users will interact with
+                - Make sure the product is up and running
+            - Interactions:
+                - reviewing requirements, PRD, and mocks
+                - discuss feasibility and timelines
+                - plans to tackle technical debt
+        - **Program Mangers**
+            - Role
+                - Project Management
+                - Report status of projects
+                - Keep the team on schedule
+                - flag any risks and slips in schedule
+            - Interactions:
+                - Go through prioritization exercises
+                - Discuss timelines
+                - review roadmap
+        - **QA**
+            - Role:
+                - Test the produt to make sure everything works correctlly
+                - Document bugs
+                - Increase testing capabilities
+            - Interactions:
+                - Review PRD
+                - Review test plan and expected behaviors
+                - Flag bugs and priortize
+        - **[Data Science](<Data Science.md>)**
+            - Role:
+                - Provide key insights based on data
+                - Design and roll out experiments
+                - Quantify impact
+            - Interactions:
+                - Aligning DS priorities
+                - Reviewing PRDs
+                - Reviewing experiment results
+        - **[Marketing](<Marketing.md>) **
+            - Role:
+                - explain what the product
+                - web and social presence
+                - lead user acquisition campaigns
+                - make sure the right story lands
+                - organize press events
+            - Interactions:
+                - Align on marketing priorities
+                - discussing launch announcements and presentations
+                - pre-briefing for interviews
+                - help to support press review issues
+        - **[Sales](<Sales.md>)**
+            - Role
+                - Sell the product
+                - Build relationships with customers
+                - Insight into customer sentiment
+            - Interactions
+                - Review roadmap and upcoming features
+                - Discuss feedback from customers and product shortcomings
+                - discuss features that would drive sales enablement
+            - **Support**
+                - Role
+                    - help users when they run into problems
+                    - track top issues users encounter
+                    - improve support processes and tooling
+                - Interactions:
+                    - Reviewing PRDs roadmap
+                    - Discussing top customer issues
+                    - discussing supportability
+            - **Legal & Privacy**
+                - Role
+                    - Complaince with the law and privacy regulations
+                    - make sure data is being collected with purpose, stored appropriately, and deleted when no longer needed
+                - Interactions:
+                    - Review roadmap and PRDs
+                    - Review flows and messaging
+                    - review data collection and storage
+                    - discuss new legal & privacy requirements
+            - **i18n**
+                - Role
+                    - Adapt the product for other countries
+                    - translate the content in the product to other languages
+                - Interactions
+                    - Review expansion plans and priotize
+                    - review any i18n bugs
+            - ^^It takes a village to launch a product^^
+            - {{table}}
+    - New PM onboarding plan:
+        - Company
+            - What the company does
+            - How the company makes money
+            - Short term goals and objectives
+            - Long term goals and objectives
+            - Current projects in flight
+        - People
+            - My manager
+            - My manager’s manager
+            - Other PMs
+            - Design partner
+            - Research partner
+            - Eng partner
+            - TPM partner
+            - QA partner
+            - Data Science
+            - Marketing
+            - PR
+            - Sales
+            - Support
+            - Legal & Privacy
+            - Policy
+            - Ops
+        - Product Experience
+            - Check out the product’s website
+            - Review the app store listing
+            - Use the product
+            - Journal of my experience using it
+            - Questions that I have about why it is the way it is
+            - List of issues that I encountered while using the product
+            - Get help for the product
+            - Review the support site
+            - Reach out to customer support for help with an issue
+            - Use competitor products
+            - Compare similarities and differences
+        - Other
+            - Process
+            - Learn the process for how to get things done
+                - What needs to be reviewed
+                - What requires approval
+            - Get access to dashboards and tools
+            - Shadow support and listen to customer calls
+    - Identifying Requirements 
+        - some ways
+            - Research
+            - User Interviews
+            - Stakeholder/cross functional partner interviews
+            - Prototyping
+        - it is important to know the context while gathering those requirements
+        - users dont always know what they want or explain completly why they want specific feature, go deep and understand why they really want
+            - Users might be able to tell you what they think the product should do, but often it’s worth pushing to understand their need deeper. Oftentimes you will identify a better way to meet that need.
+        - **document everything**
+        - you will never be sure if you have all the requirments, they will always change and grow
+        - so keep the PRD up-to-date
+        - be transparent
+        - https://blog.buildo.io/effective-requirements-gathering-b9cbd8176075 TODO
+        - https://www.goodproductmanager.com/2008/05/06/stop-gathering-requirements/  TODO
+        - https://medium.com/@uxpin/how-to-write-a-painless-product-requirements-document-508ff6807b4a PRD
+        - https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/edit# PRD example of Producthunt
+        - 
+    - The roadmap & PRD
+        - Product roadmap is the high level plan that the team will be executing against, overview of the direction of the product over time.
+        - should tell a cohesive story
+        - coordinate with all stakeholders
+        - __[say no](<say no.md>)__ to all but the most cruciall features
+        - atach goals, and make everyone understand the impact
+        - Example roadmap:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FPJxTJ2Napb?alt=media&token=ebc69689-ae70-4960-8aee-363ad05ea731)
+        - **PRD**:
+            - The PRD is the source of truth that answers the question WHAT is the team building and WHY, which is incredibly helpful to drive alignment across the team.
+            - ![](https://video.udacity-data.com/topher/2020/January/5e209786_prd-/prd-.png)
+            - components:
+                - frames the problem and answers the question why are we solving it?
+                - outline the goals
+                - describe the requirements
+                - assumptions, and other options considered
+                - out of scope
+                - UI mocks
+                - risks & mitigations
+                - support plan
+            - Further Research TODO
+                - [Product Roadmap: Nine Strategies for Creating One](https://www.thisisproductmanagement.com/blog/product-roadmap/)
+                - [How To Create a Product Roadmap](https://venngage.com/blog/product-roadmap/)
+                - [Product requirements documents, downsized](https://www.atlassian.com/agile/product-management/requirements)
+                - [How to Write a Painless Product Requirements Document](https://medium.com/@uxpin/how-to-write-a-painless-product-requirements-document-508ff6807b4a)
+                - [Good Product Brief, Bad Product Brief](https://coda.io/@lshackleton/good-product-brief-bad-product-brief)
+                    - Good product briefs set clear **context** for the reader.
+                    - Good product briefs start by articulating the **problem **and** why **it's important to solve.
+                    - Good product briefs have a plan on how the team will **learn**.
+                    - Good product briefs touch on **social** & **emotional** aspects of the product.
+                    - Good product briefs bring the **tough questions** to the surface early.
+                    - Good briefs build **momentum** toward the next phase of a project.
+            - [x] Exercise:  Write a PRD
+                - Imagine you are the PM working on an alarm clock app. Write a PRD for the initial version
+                - Write a PRD - Problem Frame the problem: Describe the opportunity. What are the benefits to the user? What are key insights? What does the competition do? Why does this matter?
+                - Write a PRD - Goals What are the product goals: What does success look like? How do you measure success?
+                - Write a PRD - Key feature requirements What should the product do? How should each feature be prioritized?
+                - Solution
+                    - ## Problem
+                        - Users don’t always wake up at the right time
+                        - Wake up times may vary based on the time of day
+                    - ## Goals
+                        - Users wake up on time
+                        - Users can set different alarms based on their schedule
+                    - ## Key Features
+                        - P0 - Alarm based on day of week
+                        - P0 - Support for multiple alarms (at least 10)
+                        - P0 - Alarm management - edit and delete existing alarms
+                        - P0 - Alarm goes off at designated time
+                        - P0 - Snooze active alarm
+                        - P0 - Turn off active alarm
+                        - P1 - Customizable alarm tones
+                        - P1 - Alarm gradually increases in volume over time
+                        - P1 - Auto alarms - Alarm goes off a specified amount of time before the first event on the user’s calendar
+                        - P1 - “Silent alarm” that vibrates only
+                - Exercise Build a Roadmap TODO
+                    - Now that you’ve written a PRD for your alarm clock app, you need to break the features out into a roadmap. Break out the roadmap into 4 quarters. Don’t worry too much about the specific sizing… Instead focus on things that should be built together and what order those things should be built in.
+                    - List out features on the roadmap that should be built in Q1. Make sure to include your rationale for why these features should be built during this timeframe.
+                    - Q2....
+    - https://beingfa.com/2017/10/31/so-you-want-to-be-a-product-manager TODO
+    -  [x] https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager TODO
+- ### [Product Strategy](<Product Strategy.md>)
+- ### [Product Design](<Product Design.md>)
+- ### [Product Development](<Product Development.md>)
+- 
+- __Product Manager Skills Self Assessment__ — via [Product Manager Skills Self Assessment](https://docs.google.com/forms/d/e/1FAIpQLSdOvF1LvexV1oJtIC-jZ8yK_LJ7-Se9m_WaCJh5LjDNAsc8gQ/formResponse)  by @[Vladimir Merkushev](https://twitter.com/mervlad)
+    - [Resources](<Resources.md>)](https://www.learnpmwith.me/resources/)from PMFolks
+    - **Product Strategy and Market Analysis**
+        - Market Analysis
+        - [Product Vision](<Product Vision.md>)
+        - Competitor Analysis
+        - Go to Market Strategy
+        - Roadmap Development
+    - **Customer Research**
+        - Hypothesis Formation
+        - User Interviews
+        - User Personas
+        - Jobs-To-Be-Done
+        - Collecting Clients Feedback and Product Quality Assessment
+    - **Development Management**
+        - Tasks Validation
+        - Work with Non-functional Requirements (restrictions, external dependencies, quality, etc.
+        - Product Requirements Documentation
+        - Setting Priorities
+    - **UI/UX Design**
+        - Rapid Prototyping
+        - Empathy, User Story Mapping, CJM
+        - Usability Testing
+        - Sense of Style
+    - **Product Analytics**
+        - Feature Value Preassessment
+        - A/B Testing
+        - Quantitative Analysis and Analytics Tools (segments, funnels, etc.)
+        - Cohort Analysis
+    - **Monetisation**
+        - Unit Economics
+        - Business Models
+        - Financial Planning
+        - Funnel Optimization
+        - [SaaS](<SaaS.md>) Models (Churn Rate, MRR) 
+        - Pricing
+        - First Session and User Activation
+        - Audience Segmentation
+        - Audience Return Channels
+        - Understanding Company Growth Points
+    - **Project Management and More**
+        - Stakeholders Management
+        - Agile Development (Scrum, Kanban, etc)
+        - Team Leadership and Motivation
+        - Goals Setting (OKRs and more)
+        - Partners Management
+        - Sales
+        - Payments, Gateways, Understanding of Accounting
+        - PR, SMM, Brand Development
+        - Paid Traffic Channels (CMP, CPC, CPA)
+        - Organic Traffic Channels (SEO, ASO)
+        - Presentation Skills
+        - Hiring and Team Formation
+        - Foreign Markets
+- PRD Templates across companies via [VindhyaC](https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/)
+-  [PM Resources](https://www.notion.so/PM-Resources-2461013856a6411ea32a529d51e601b7) [Resources](<Resources.md>)
+
+# Backlinks
+## [Books](<Books.md>)
+- Intercom on Marketing
+- **[Product Management](<Product Management.md>):**
+
+- Book on [Bias](<Bias.md>) es also #[Product Management](<Product Management.md>)
+
+## [First Principles](<First Principles.md>)
+- https://www.linkedin.com/pulse/how-i-am-using-first-principles-thinking-product-santhosh-gandhi/ [Product Management](<Product Management.md>)
+
+## [Inspired](<Inspired.md>)
+- **[Tags](<Tags.md>):** #[Product Management](<Product Management.md>)
+
+#[Product Management](<Product Management.md>)
+
+## [July 12th, 2020](<July 12th, 2020.md>)
+- Expert Session with Ashih Sinha on #[Product Management](<Product Management.md>)
+
+## [June 14th, 2020](<June 14th, 2020.md>)
+- [First Principles](<First Principles.md>) in [Product Management](<Product Management.md>):
+
+## [June 28th, 2020](<June 28th, 2020.md>)
+- Experimentation [framework](<framework.md>)s PM Folks Webinar #[Product Management](<Product Management.md>)
+
+## [June 7th, 2020](<June 7th, 2020.md>)
+- **Building & Scaling Marketplace** talk by [Lenny Rachitsky](<Lenny Rachitsky.md>) by Product Folks: [Link](https://www.youtube.com/watch?v=hhbUzjquNJ4) [Product Management](<Product Management.md>)
+
+## [Metrics](<Metrics.md>)
+- [Product Management](<Product Management.md>)
+
+## [Reading](<Reading.md>)
+- [High Output Founders' Library](https://www.notion.so/High-Output-Founders-Library-48742928f9f149b8a777e11a1409ce0a) [Startup](<Startup.md>) [Resources](<Resources.md>) [Hiring](<Hiring.md>) Investor Relation Fundraising Culture [Meetings](<Meetings.md>) #[Product Management](<Product Management.md>)
+
+## [Retention](<Retention.md>)
+- **[Tags](<Tags.md>):** #[Product Management](<Product Management.md>)
+
+## [Superhuman](<Superhuman.md>)
+- [ ] https://www.nfx.com/post/superhuman-product-frameworks/  #[Product Management](<Product Management.md>)
+
+## [Tweets From Shreyas Doshi (highlights)](<Tweets From Shreyas Doshi (highlights).md>)
+- The [PM]([Product Management](<Product Management.md>))
+
+- [Product Management](<Product Management.md>)—
+
+## [User Story](<User Story.md>)
+- #[Product Management](<Product Management.md>)
+
+## [articles](<articles.md>)
+- [10 Places to Find Product-Market Fit](https://www.nfx.com/post/10-places-to-find-product-market-fit/) [Product Market fit](<Product Market fit.md>) [Product Management](<Product Management.md>)
+
