@@ -1,0 +1,826 @@
+- # Design Sprint
+    - [Design Thinking](<Design Thinking.md>): A human centered, iterative approach to solve problems through deeply understanding users and needs, redefining problems, creating innovative solutions, and testing them.
+    - Design Sprint: A design thinking based time constrained process to explore and reduce the risk of building new products or features
+        - What it really means is that it involves stretching your understanding of a problem, thinking about it from different perspectives, ant hten brainstorming solutions. Ultimately, picking one idea, building a prototype and then testing it with real users.
+        - Design Sprints are most often discussed in the context of product development but can also be applied to internal process improvement.
+        - Using a Design Sprint
+            - Allows the team to explore and learn without actually building
+            - Means the process can fail early without serious consequences
+            - Creates buy-in and ownership among the team
+        - [ ] Design Sprint Further Research:
+            - [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
+            - [The Design Sprint](https://www.gv.com/sprint/)
+            - [The Sprint Book](https://www.thesprintbook.com/how)
+        - At the end of a Design Sprint, you’ll have
+            - a working prototype for your concept
+        - What happens after a Design Sprint? It really depends… But here are a few possibilities
+            - More testing and iteration
+            - The concept will go to Design to be more fully fleshed out
+            - The concept will go to Engineering to build
+            - Make a case with leadership to invest more resources in bringing concept to market
+            - The concept is abandoned because it doesn’t address a user need
+            - and lots more
+        - Is the problem right? Will we need design sprint:
+            - Design Sprints are great at a lot of things. They bring a team together to focus on solving a problem. Design Sprints are best suited when there are big open questions. They don’t work as well when a solution or in depth direction has already been identified.
+            - Here’s some examples of when a Design Sprint is a good fit:
+                - New product
+                - New feature for existing product
+                - Improvement to existing product
+                - You need to solve a complex problem
+                - You don’t already have an answer
+            - And some examples where a Design Sprint is unlikely to be helpful:
+                - There is already clear product direction, just not final designs
+                - There is not enough foundational research to understand user needs
+                - You already have an answer
+            - [ ] Further research:
+                - [When a design sprint isn’t the answer](https://www.invisionapp.com/inside-design/design-sprint-wont-work/)
+                - [How do I know if it’s the right time to run a Design Sprint?](https://sprintstories.com/how-do-i-know-if-its-the-right-time-to-run-a-design-sprint-29d67e7bc4b2)
+    - **Phases of Design Sprint:**
+        ![](https://video.udacity-data.com/topher/2019/November/5ddb1c57_phases-of-design-sprint-no-border/phases-of-design-sprint-no-border.jpg)
+        **1. Understand**
+            - Create a shared understanding of the problem space, the user, the competition, and why it all matters. Align as a team on a focus moving forward for the rest of the sprint
+        **2. Define**
+            - Start by focusing on where you want to end. By setting goals you can work backwards to understand what needs to happen in order to get there.
+        **3. Sketch**
+            - Ideate. Start diverging and exploring lots of different solutions.
+        **4. Decide**
+            - Bring it all back together and decide on one idea to take through prototyping and validation
+        **5. Prototype**
+            - Map out and build a prototype of your idea
+        **6. Validate**
+            - Check to make sure that your idea is solving a real user need… and that it can be built!
+    - **Planning a Design Sprint:**
+        - __The Sprint Master__
+            - Creates the structure of the Sprint
+            - Selects which methodologies will be used
+            - Facilitates during the sprint
+            - Keeps the team focused and on track
+        - The Challenge Statement: 
+            - Theres a lot of works that happens even before the sprint begins, to make sure that everything goes smoothly.
+            - Creating a Challenge statement is a great way to help everyone understand the purpose of the sprint
+            - Once you have a challenge is selected, you can start the sprint
+            - Best challenge statement are:
+                - Short and easy to understand
+                - Something with urgency that needs to be delivered
+                - Contain a timeframe
+                - Are inspiring and get people excited
+            - An easy format to follow is:
+^^**[ACTION] + [OUTPUT] + FOR [USER] + TO [PROBLEM] + BY [TIMEFRAME]**^^
+                - Reimagining the security screening experience for airport travelers to reduce frustration by next holidays season
+                - Reduce the abandoned carts by our online shoppers in the next month
+        - Challenge Statement Further Research 
+            - [Problem Statement](https://thoughtbot.com/product-design-sprint/guide/understand/problem-statement)
+            - [Why Problem Framing before a Design Sprint?](https://medium.com/design-sprint-academy/design-sprints-picking-your-battles-45d30f9b06ce)
+        - Planning tips:
+            - Sprint Team
+                - About 6 people
+                    - If more than that, split the group into smaller teams that work through exercises in parallel and then share with the whole group
+                - You will want to identify people whose work is directly related to the sprint challenge
+            - __Agenda__
+                - Build a rough agenda for your sprint
+                - Select methods for each phase (which we’ll discuss in the following lessons) that will provide insights for the problem you are trying to solve. Keep in mind the composition of your sprint team-- if people are more familiar with the problem space, it likely will make more sense to spend more time on ideation whereas if people are less familiar it would make sense to spend more time on understanding the problem space.
+            - __Space__
+                - Secure a space for the sprint to take place, preferably somewhere away from distractions
+                - Tons of space for everyone who is participating
+                - Whiteboards or lots of wall space for posting stickies
+            - __Supplies__
+                - Post it notes
+                - Dry erase markers for whiteboard (multiple colors)
+                - Sharpies
+                - Pens
+                - Paper
+                - Giant post it notes (if no whiteboard)
+            - __Logistics__
+                - Send a calendar invite to the sprint team
+                - Coordinate getting some light snacks / refreshments for each day
+                - Arrive earlier to make sure that the room is arranged in a way that is conducive for collaboration (ex: a U shape around a whiteboard)
+                - Send a reminder the day before, with any pre-work that the team needs to do (like reviewing [User Research](<User Research.md>) or trying competing products)
+        - [ ] Further:
+            - [24 Design Sprint Tips](https://sprintstories.com/23-facilitation-tips-for-design-sprints-34d876aa5317) 
+        - Make sure everyone on the team knows about all others. We can do this by [icebreakers games](https://www.sessionlab.com/blog/icebreaker-games/) like Me, my super power, 2 truths and one lie.
+        - Tips when working with designers
+            - You are not a designer. 
+            - Acknowledge that designers have expertise when talking about UI and flows
+            - When critiquing a design, it’s often more effective to ask about the intention of a choice
+    - ## Phase 1: UNDERSTAND:
+        - The first phase of design sprint is **understanding**, the goal of this phase is to create a share understanding of the problem across all sprint members.
+        - Even though the team might have background about the problem, it is important to capture problem space across by setting inputs that highlight and demonstrate different viewpoints and perspectives across multitude of dimensions.
+        -  You can do this using the following techniques:
+            - Lightning talks
+                - A short presentation focused on a specific topic
+                - [User Research](<User Research.md>)
+                    - Who is the user?
+                    - What are their needs and goals?
+                    - Why does this problem matter to users?
+                    - Examples:
+                        - Researcher presents study on users with purchase intent
+                        - Researcher presents from study on users with [X] need
+                - Business goals/needs
+                    - Why does this problem matter to your company?
+                    - What are we trying to solve?
+                    - Why does it matter?
+                    - What have we tried in the past?
+                    - What’s worked well and not so well?
+                    - Examples:
+                        - Sales team presents industry trends and competitive landscape
+                        - CEO presents importance of specific market//region
+                - Technology
+                    - What current capabilities do we have?
+                    - What are the limits and constraints or limitations on our existing tech?
+                    - Examples:
+                        - Engineer presenet new capabilities of technology available
+                        - Engineer presents tear down of competitor tech
+                - and more
+            - Interviews
+                - User interviews
+                    - Build empathy for users
+                    - Get a deeper understanding of user needs and pain points
+                    - Who?
+                        - Users who have your product
+                        - Users who have a competing product
+                        - Users who might be interested in your product
+                - Stakeholder interviews
+                    - Dive deeper into some of the reasoning, rationale, and context of why this specific problem is important to solve
+                    - Topics can include any previous efforts to solve this or a similar problem
+                    - Who?
+                        - Executives
+                        - Sales team
+                        - Operations team
+                        - Legal team
+                - Expert interviews
+                    - Provide specialized insights around a specific problem, population, or technology
+                    - Can be either internal or external
+                    - Who?
+                        - Domain Experts
+            - Competitive analysis
+                - Get a better understanding of the competition and other solutions that exist in the problem space by:
+                    - Doing research, including checking out websites and press materials
+                    - Reading reviews
+                    - Using the product and recording your experience
+                - Keep in mind…
+                    - __Just because a competitor built something a certain way doesn’t mean it was the right thing to build or that it was built the right way.__
+        - How Might We
+            - A method to frame problems as solutions
+            - “How Might We” is a method to capture problems and frame them as opportunities that can be solved. Each statement should be captured on its own sticky note.
+            - “How Might We” statements always start with the same three words, which creates a positive solution oriented framing.
+                - **How** - acknowledges that we don’t know the answer yet but believe this problem can be solved
+                - **Might** - acknowledges there can be more than one solution and that we shouldn’t stop at the first idea. “Might” also acknowledges that not every solution will work, but it’s still ok to discuss and explore ideas that might not pan out
+                - **We** - acknowledges that the team is invested in solving this problem together
+            - __Things to Remember__
+                - ![](https://video.udacity-data.com/topher/2019/November/5dcda72e_hmw-gotchas/hmw-gotchas.png)
+                - Write one “How Might We” statement per sticky note
+                - Each statement should be open ended
+                - Statements should focus on open ended opportunities, rather than a specific solution. Try to avoid statements that are too narrow.
+            - [ ] Further Research
+                [How Might We](https://www.designkit.org/methods/3)
+                [HMW statements](https://www.innovationchampions.com.au/toolkit/hmw-statements)
+        - Rose, Bud, Thorn
+            - A method to visually classify aspects of a topic as being positive, an opportunity, or negative
+            - [ ] 
+        - Affinity Mapping
+            - A method to sort ideas and insights into themes
+            - ![](https://video.udacity-data.com/topher/2020/January/5e17c57a_affinity-map/affinity-map.jpg)
+            - [ ] 
+                - HMW Sharing and Affinity Mapping
+                - A Beginner's Guide to Affinity Mapping
+                - Affinity Mapping
+                - Affinity Map Examples 
+                - ## Phase 2: DEFINE:
+                    - Now as the sprint team has shared understanding of the problem space, we are going push **deeper to converge and find focus** from all the different understandings in the previous stages.
+                    - DEFINE phase starts with end in mind, i.e. where the sprint want to end up with the product.  We'll focus on desired outcomes that you want to achieve, and how you will define success. Once we have identified that vision, it becomes much easier to understand and frame all the other steps we will need to take to realize that vision.
+                    - ### 
+                        - Design principles guide the way that you think about building your product. Design principles are usually short just a word or two, followed by a brief explanation
+                        - Examples:
+                            - Apple's: Keeping private data private
+                            - Google's: Fast but less is more
+                            - AirBnB: Connecting hosts and guests globally almost like a mutual friend could
+                            - What were the design principles for Spotify? TODO
+                            - For our grocery store app:
+                                - We're taking care of your shopping cart (Autopilot)
+                                - Always fast & on time, Never Late (Timely)
+                        - Things to Remember
+                            - Design principles are guidelines that should craft how you think about building your product. By aligning on design principles with your team, it also makes decision making easier because you can frame questions in the context of your design principles.
+                            - When you are writing design principles with your team, you should capture each principle with a word or two and a short explanation that explains the intent in more detail. When you refer to your design principles later you can just refer to the short version.
+                        - [ ] Design Principles Further Research
+                            - [Design Principles](https://principles.design/)
+                    - Creating focus by starting with desired outcomes, using a variety of different methods:
+                        - Success Metrics
+                        - Design Principles
+                        - Future Press Release
+                    - ### Define Success Metrics:
+                        - The HEART [framework](<framework.md>) is a user-centered method to define metrics that measure the quality of the user experience. It’s simple and easy to understand and can help with decision making in later phases. There are five dimensions:
+                            - **Happiness** - user attitude towards your product
+                            - **Engagement** - how users are using the product in terms of frequency or number/types of features used
+                            - **Adoption** - how many new users start using your product
+                            - **Retention** - how many users keep coming back
+                            - **Task Success** - ability for users to complete critical tasks in order to be successful with the product
+                            -  
+                            - Across these dimensions, you will then want to start by identifying goals, then signals, and finally metrics to measure how well your product is doing.
+                                - A **goal** is something the user is trying to do or something you are trying to help them to do
+                                - A **signal** is a change in user behavior that indicates that the user is achieving the goal
+                                - A **metric** is a way to measure signal and quantify how much user behavior has changed
+                            - Keep in mind that it’s ok for goals to have multiple signals and metrics. It’s also not necessary to have metrics for every dimension. 
+                            - It’s more important to pick things that are relevant to the problem you are trying to solve.
+                            - ![](https://video.udacity-data.com/topher/2019/November/5ddb5592_heart-framework-empty/heart-framework-empty.jpg)
+                            - Sample:
+                                - ![]()
+                        - ### 
+                            - Design principles guide the way that you think about building your product. Design principles are usually short just a word or two, followed by a brief explanation
+                            - Examples:
+                                - Apple's: Keeping private data private
+                                - Google's: Fast but less is more
+                                - AirBnB: Connecting hosts and guests globally almost like a mutual friend could
+                                - What were the design principles for Spotify? TODO
+                                - For our grocery store app:
+                                    - We're taking care of your shopping cart (Autopilot)
+                                    - Always fast & on time, Never Late (Timely)
+                            - Things to Remember
+                                - Design principles are guidelines that should craft how you think about building your product. By aligning on design principles with your team, it also makes decision making easier because you can frame questions in the context of your design principles.
+                                - When you are writing design principles with your team, you should capture each principle with a word or two and a short explanation that explains the intent in more detail. When you refer to your design principles later you can just refer to the short version.
+                            - [ ] Design Principles Further Research
+                                - [Design Principles](https://principles.design/)
+                        - **AARRR Pirate Metrics for [SaaS](<SaaS.md>)**
+                            - ![](https://www.pierrelechelle.com/files/2016/09/aarrr-pirate-metrics.png)
+                            - ![](http://www.pierrelechelle.com/files/2014/05/aarrr-pirate-metrics-infographic.png)
+                            - 
+                        - [ ] Define Success Metrics Further Research
+                            - [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36299.pdf)
+                            - [How to Choose the Right UX Metrics for Your Product](https://www.dtelepathy.com/ux-metrics/)
+                            - [Startup Metrics for Pirates -- AARRR](https://www.pierrelechelle.com/aarrr-pirate-metrics)
+                        - 
+                    - ### Future Press Release:
+                        - Writing a future press release or review about your product is a great way to get everyone on the team aligned on the outcomes you are trying to achieve. They also can be fun to write. The main difference between a press release and a review is that a press release is being told from your point of view while a review would be written from the perspective of a third party.
+                        - Future Tweet is also interesting as it forces to 140 words
+                        - Include the following important components:
+                            - Name of the product (although this doesn’t have to be final and can change)
+                            - Who is the target user?
+                            - What problem does your product solve?
+                            - How does your product solve this problem?
+                            - Why your team built this
+                            - Why should users care?
+                            - How do users react to your product?
+                            - What sets this product apart from others?
+                            - How can users get the product
+                        - Tips:
+                            - Remember that you are writing for an external audience
+                            - Don't use acronyms
+                            - Incorporate quotes into the press review/release either from people on team or made up users.
+                            - Focus more on what the product does... rather on how
+                            - Keep a positive and excited tone.
+                        - Example:
+                            - https://www.blog.google/products/google-wifi/google-wifis-network-check-now-tests-multiple-device-connections/
+                            - Future Tweet Example: Your groceries now in autopilot, never wait to checkout again
+                        - Amazon's Rules for the Future Press Release
+                            - The future press release is a great approach to defining clear and lofty goals, requirements, and objectives and to building broad understanding from the start of a program or enterprise change. There are, however, rules to make this approach effective:
+                            - __Rule 1. __The goal must be stated at a future point in time at which success has been achieved and realized. Press releases at launch are good, but a better one is sometime after launch, where true success can be discussed.
+                            - __Rule 2.__ Start with the customer. Use the press release to explain why the product is important to customers (or other key stakeholders). How did the customers’ experience improve? Why do the customers care? What __delights__ customers about this new service? Then discuss other reasons it was important and key goals.
+                            - __Rule 3.__ Set an audacious and clear goal. Articulate clear, measurable results you’ve achieved, including financial, operating, and market share results.
+                            - __Rule 4.__ Outline the principles used that led to success. This is the trickiest and most important aspect of the future press release. Identify the hard things accomplished, the important decisions, and the design principles that resulted in success. Discuss the issues that needed to be addressed to achieve success. Getting the “tricky” issues on the table early on helps everyone understand the real nature of the change needed. Don’t worry about how to solve these issues yet. You’ve still got time to figure that out.
+    - ## Phase 2: DEFINE:
+        - Now as the sprint team has shared understanding of the problem space, we are going push **deeper to converge and find focus** from all the different understandings in the previous stages.
+        - DEFINE phase starts with end in mind, i.e. where the sprint want to end up with the product.  We'll focus on desired outcomes that you want to achieve, and how you will define success. Once we have identified that vision, it becomes much easier to understand and frame all the other steps we will need to take to realize that vision.
+        - ### 
+            - Design principles guide the way that you think about building your product. Design principles are usually short just a word or two, followed by a brief explanation
+            - Examples:
+                - Apple's: Keeping private data private
+                - Google's: Fast but less is more
+                - AirBnB: Connecting hosts and guests globally almost like a mutual friend could
+                - What were the design principles for Spotify? TODO
+                - For our grocery store app:
+                    - We're taking care of your shopping cart (Autopilot)
+                    - Always fast & on time, Never Late (Timely)
+            - Things to Remember
+                - Design principles are guidelines that should craft how you think about building your product. By aligning on design principles with your team, it also makes decision making easier because you can frame questions in the context of your design principles.
+                - When you are writing design principles with your team, you should capture each principle with a word or two and a short explanation that explains the intent in more detail. When you refer to your design principles later you can just refer to the short version.
+            - [ ] Design Principles Further Research
+                - [Design Principles](https://principles.design/)
+        - Creating focus by starting with desired outcomes, using a variety of different methods:
+            - Success Metrics
+            - Design Principles
+            - Future Press Release
+        - ### Define Success Metrics:
+            - The HEART [framework](<framework.md>) is a user-centered method to define metrics that measure the quality of the user experience. It’s simple and easy to understand and can help with decision making in later phases. There are five dimensions:
+                - **Happiness** - user attitude towards your product
+                - **Engagement** - how users are using the product in terms of frequency or number/types of features used
+                - **Adoption** - how many new users start using your product
+                - **Retention** - how many users keep coming back
+                - **Task Success** - ability for users to complete critical tasks in order to be successful with the product
+                -  
+                - Across these dimensions, you will then want to start by identifying goals, then signals, and finally metrics to measure how well your product is doing.
+                    - A **goal** is something the user is trying to do or something you are trying to help them to do
+                    - A **signal** is a change in user behavior that indicates that the user is achieving the goal
+                    - A **metric** is a way to measure signal and quantify how much user behavior has changed
+                - Keep in mind that it’s ok for goals to have multiple signals and metrics. It’s also not necessary to have metrics for every dimension. 
+                - It’s more important to pick things that are relevant to the problem you are trying to solve.
+                - ![](https://video.udacity-data.com/topher/2019/November/5ddb5592_heart-framework-empty/heart-framework-empty.jpg)
+                - Sample:
+                    - ![]()
+            - ### 
+                - Design principles guide the way that you think about building your product. Design principles are usually short just a word or two, followed by a brief explanation
+                - Examples:
+                    - Apple's: Keeping private data private
+                    - Google's: Fast but less is more
+                    - AirBnB: Connecting hosts and guests globally almost like a mutual friend could
+                    - What were the design principles for Spotify? TODO
+                    - For our grocery store app:
+                        - We're taking care of your shopping cart (Autopilot)
+                        - Always fast & on time, Never Late (Timely)
+                - Things to Remember
+                    - Design principles are guidelines that should craft how you think about building your product. By aligning on design principles with your team, it also makes decision making easier because you can frame questions in the context of your design principles.
+                    - When you are writing design principles with your team, you should capture each principle with a word or two and a short explanation that explains the intent in more detail. When you refer to your design principles later you can just refer to the short version.
+                - [ ] Design Principles Further Research
+                    - [Design Principles](https://principles.design/)
+            - **AARRR Pirate Metrics for [SaaS](<SaaS.md>)**
+                - ![](https://www.pierrelechelle.com/files/2016/09/aarrr-pirate-metrics.png)
+                - ![](http://www.pierrelechelle.com/files/2014/05/aarrr-pirate-metrics-infographic.png)
+                - 
+            - [ ] Define Success Metrics Further Research
+                - [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36299.pdf)
+                - [How to Choose the Right UX Metrics for Your Product](https://www.dtelepathy.com/ux-metrics/)
+                - [Startup Metrics for Pirates -- AARRR](https://www.pierrelechelle.com/aarrr-pirate-metrics)
+            - 
+        - ### Future Press Release:
+            - Writing a future press release or review about your product is a great way to get everyone on the team aligned on the outcomes you are trying to achieve. They also can be fun to write. The main difference between a press release and a review is that a press release is being told from your point of view while a review would be written from the perspective of a third party.
+            - Future Tweet is also interesting as it forces to 140 words
+            - Include the following important components:
+                - Name of the product (although this doesn’t have to be final and can change)
+                - Who is the target user?
+                - What problem does your product solve?
+                - How does your product solve this problem?
+                - Why your team built this
+                - Why should users care?
+                - How do users react to your product?
+                - What sets this product apart from others?
+                - How can users get the product
+            - Tips:
+                - Remember that you are writing for an external audience
+                - Don't use acronyms
+                - Incorporate quotes into the press review/release either from people on team or made up users.
+                - Focus more on what the product does... rather on how
+                - Keep a positive and excited tone.
+            - Example:
+                - https://www.blog.google/products/google-wifi/google-wifis-network-check-now-tests-multiple-device-connections/
+                - Future Tweet Example: Your groceries now in autopilot, never wait to checkout again
+            - Amazon's Rules for the Future Press Release
+                - The future press release is a great approach to defining clear and lofty goals, requirements, and objectives and to building broad understanding from the start of a program or enterprise change. There are, however, rules to make this approach effective:
+                - __Rule 1. __The goal must be stated at a future point in time at which success has been achieved and realized. Press releases at launch are good, but a better one is sometime after launch, where true success can be discussed.
+                - __Rule 2.__ Start with the customer. Use the press release to explain why the product is important to customers (or other key stakeholders). How did the customers’ experience improve? Why do the customers care? What __delights__ customers about this new service? Then discuss other reasons it was important and key goals.
+                - __Rule 3.__ Set an audacious and clear goal. Articulate clear, measurable results you’ve achieved, including financial, operating, and market share results.
+                - __Rule 4.__ Outline the principles used that led to success. This is the trickiest and most important aspect of the future press release. Identify the hard things accomplished, the important decisions, and the design principles that resulted in success. Discuss the issues that needed to be addressed to achieve success. Getting the “tricky” issues on the table early on helps everyone understand the real nature of the change needed. Don’t worry about how to solve these issues yet. You’ve still got time to figure that out.
+    - ## Phase 3: SKETCH:
+        - [ ] Sketching Tips:
+            - Sketching is easier when you have the right tools
+            - Use placeholders when details aren't necessary to convey meaning
+            - Annotate your sketch to help others understand it
+            - [The Messy Art of UX Sketching](https://www.smashingmagazine.com/2011/12/the-messy-art-of-ux-sketching/)
+            - [Guide to UX Sketching](https://www.toptal.com/designers/ux/guide-to-ux-sketching)
+            - [Printable dot paper](https://paperkit.net/dottedpaper)
+        - Use inputs from previous phases
+        - **Crazy 8 Sketches**:
+            - 8 Sketches in 8 minutes
+            - 1 sketch per minute per member
+            - Quantity over quality
+            - It might be exhausting for the first few times as we will be thinking to get perfect ideas in first tries but keep in mind idea behind is that it forces you to think beyond that 
+            - Sample:
+                - ![](https://video.udacity-data.com/topher/2019/November/5ddae296_crazy-8s-color/crazy-8s-color.jpg)
+            - [ ] Crazy 8's Further Research
+                - [How to Run a Crazy Eights Workshop](https://blog.prototypr.io/how-to-run-a-crazy-eights-workshop-60d0a67b29a)
+        - **Voting**
+            - Each member has 3 votes, they can use however they want
+            - ![](https://video.udacity-data.com/topher/2019/November/5ddbd13d_voting-solution/voting-solution.png)
+        - **Solution Sketching**:
+            - Each sprint member should pick one idea and sketch it out in more detail
+            - Your solution sketch should contain at least 3 frames that show progression through different states
+            - You can use words, colors, pictures as needed to help reinforce your idea
+            - Solution:
+                - ![](https://video.udacity-data.com/topher/2019/November/5ddae6ae_autopilot-color/autopilot-color.jpg)
+            - Things to Remember
+                - Solution sketching is a way to explore ideas in more depth. A solution sketch should be high quality and will take more time to complete. It should also include at least 3 frames that show how a user navigate through and interact with the concept.
+                - Solution sketches other people to better understand the specifics of the idea, but also starts to stress test the idea to see how it may or may not work well. Once you start sketching a solution out in more detail you may realize there might be more things required than what you originally thought.
+    - ## Phase 4: DECIDE:
+        - We have sketched a whole bunch of different ideas, now it's time to decide 
+        - The goal of the decide phase is to converge on a single idea to carry forward for the remainder of the sprint
+        - A couple ways to decide:
+        - **Assumptions and Questions**
+            - {{table}}
+                - **Assumptions**
+                    - **Questions**
+                - Consumers buy the same items
+                    - Do consumers buy the same items?
+                -  
+                    - Are there factors that affect item choice (ie: will some people just buy what’s cheapest)
+                - Consumers buy some items on a regular cadence
+                    - What factors affect how often consumers purchase an item?
+                - Consumers are comfortable with a set it and forget it type of subscription for some types of goods
+                    - Are consumers comfortable with a subscription?
+                -  
+                    - What types of goods would consumers be comfortable subscribing to?
+            - Questioning assumptions is a good way to make sure that you are exploring all angles of a solution
+            - [ ] Assumptions & Questions Further Research
+                - [Don’t Make Me Think – Key Learning Points for UX Design for the Web](https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web)
+                - [Assumption Busting](http://creatingminds.org/tools/assumption_busting.htm)
+            - 
+        - **Decision Matrix**:
+            - ![](https://video.udacity-data.com/topher/2019/November/5dd867a2_pmnd-c2-slide-images-without-background/pmnd-c2-slide-images-without-background.jpg)
+            - A decision matrix allows you to visualize the trade offs between different ideas when comparing across two criteria.
+                - Ideas generally worth pursuing will be high value & low effort or high value & high effort
+                - Ideas that are low value & high effort are generally not worth pursuing unless value increases or effort decreases in the future
+                - Ideas that may not make sense to pursue now, may be worth pursuing later if the value of the idea increase or the effort to pursue the idea decreases
+            - [ ] [Decision Matrix](https://designsprintkit.withgoogle.com/methodology/phase4-decide/decision-matrix)
+
+        - **[Thinking](<Thinking.md>) Hats**:
+            - The Thinking Hats exercise allows you to make sure that different perspectives are being discussed and pushes people to be open to different perspectives since everyone will have to represent multiple, differing views..
+            - The team discussion focuses on one hat at a time. The order can vary, but you'll want to start and end with the blue hat (process). This order works well when comparing ideas:
+                - Blue hat - process (align on goals and order of hats)
+                - White hat - data
+                - Green hat - creativity
+                - Yellow hat - benefits
+                - Black hat - judgment
+                - Red hat - intuition
+                - Blue hat - process (summary of discussion)
+            - Example:
+                - **Blue Hat - Process**
+                    - What goal do we want to pursue?
+                    - What sequence for the hats?
+                - **White Hat - Data**
+                    - We know:
+                        - Consumers visit grocery stores ~1.6x week
+                        - The average consumer spends 30 minutes in our store each visit (not including travel time) and purchases 13 items
+                        - Our stores each carry around 50k items
+                - **Green Hat - Creativity**
+                    - Digital vs. in store experiences
+                    - What should the interaction of purchasing an item look like?
+                - **Yellow Hat - Benefits**
+                    - __Navigate:__
+                        - Makes it super easy to find items in the store
+                        - High tech factor
+                        - Similar to getting driving directions
+                    - __Suggestions:__
+                        - Can be super helpful to surface products consumers will enjoy
+                        - Helps if consumers forgot a specific product
+                        - Super simple and lightweight interaction
+                    - __Autopilot__
+                        - Removes the need for consumers to create/manage shopping lists
+                        - Options for store pick up or delivery
+                        - Flexible re-ordering that has the potential to be based on purchase data
+                - **Black Hat - Judgment**
+                    - __Navigate:__
+                        - Really hard to do well
+                        - Overkill
+                        - Many people won’t want to have an app open in order to navigate through a store
+                    - __Suggestions:__
+                        - This would really only work for online purchases
+                        - Do we have enough data to build this in a meaningful way?
+                    - __Autopilot__
+                        - Are consumers comfortable giving up this much control?
+                        - What if pricing increases for an item? But the item is still auto-purchased?
+                        - Giving choices between schedules and pick up/delivery creates additional complexity
+                - **Red Hat - Intuition**
+                    - Navigation seems cool, but not sure we could execute on this with high quality
+                    - Suggestions makes sense and seems like there’s little downside
+                    - Autopilot seems the most exciting and has the opportunity to transform our business
+                - **Blue Hat - Process**
+                    - Move forward with Autopilot!
+            - Thinking hats is a method that allows you to make sure other perspectives are being represented and discussed when deciding on which idea to move forward to prototyping
+            - [ ] Thinking Hats Further Research 
+                - [Six Thinking Hats](http://www.debonogroup.com/six_thinking_hats.php)
+                - [Six Hats of Critical Thinking](https://www.designorate.com/the-six-hats-of-critical-thinking-and-how-to-use-them/)
+    - ## Phase 5: PROTOTYPE:
+        - Prototyping is a fast and cheap way to test and validate your idea. Your prototype doesn’t have to capture the full product end to end, but should definitely focus on the core questions about your idea that you need to answer.
+            - Storyboards
+            - Video prototypes
+            - Paper prototypes
+            - Presentation software prototype (e.g. Microsoft PowerPoint or Google Slides)
+            - Interactive prototypes
+        - Storyboards:
+            - Storyboard maps out the problem facing your user and the journey they go through with your product to solve it
+            - A storyboard is composed of frames that depict events along the user journey
+            - Each frame should have a caption that explains what is happening and why
+            - The first frame should explain how the user found themselves in this scenario and what is the problem they are trying to solve
+            - The storyboard will become the blueprint for the prototype
+            - [ ] [The Role Of Storyboarding In UX Design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/)
+            - Remember:
+                - Write your script first, and then create images for each frame
+                - The first frame should articulate the problem
+                - The last frame should show how your product helped the user solve the problem
+                - The frames in between the first and last frame should show how the user gets from the problem to the solution
+            - Tools:
+                - [Storyboarder](https://wonderunit.com/storyboarder/)
+                - [Boords](https://boords.com/)
+            - Example:
+                - ![](https://video.udacity-data.com/topher/2019/November/5ddbfab8_storyboard-solution/storyboard-solution.png)
+        - Prototyping:
+            - ![](https://video.udacity-data.com/topher/2019/November/5ddc443c_compare-prototyping-methods/compare-prototyping-methods.jpg)
+            - {{table}}
+                - Type
+                    - Effort
+                        - Pros
+                            - Cons
+                - Video
+                    - high
+                        - Very powerful, exciting, shows end to end user journey
+                            - Takes a long time to make even short videos, Can get people too excited
+                - Paper
+                    - low
+                        - Fast, cheap, and easy to iterate. Also works great as a team building exercise since everyone can be involved
+                            - Won’t resemble a digital product, can sometimes be difficult for participants to imagine it as if it were a digital software experience
+                - Presentation Software
+                    - med
+                        - Relatively easy to build and gets pretty close to mimicking what the real experience could feel like
+                            - Need to pay lots of attention around alignment, lots of importing mocks and checking alignment
+                - High fidelity
+                    - med
+                        - Super realistic, can quickly be updated, can be used as a spec that engineers build off of
+                            - Sometimes the prototype is too good… And doesn’t reflect what will actually be built (ie: latency)
+            - Prototyping is a cheap way to get feedback on an idea without having to build out the whole idea. There are a number of different types of prototypes that you can build depending on the specifics of the problem you are tackling and the timelline involved.
+            - After you run your prototype through user testing, you’ll get helpful feedback to let you know that you are on the right track or that you need to course correct.
+            - [ ] More: 
+                - [The Magic of Paper Prototyping](https://uxplanet.org/the-magic-of-paper-prototyping-51693eac6bc3)
+                - [How to prototype an app with PowerPoint](https://keynotopia.com/guides-ppt/)
+            - Other tools for high fidelity prototypes:
+                - [Figma: Getting Started with Prototyping](https://help.figma.com/article/199-getting-started-with-prototyping)
+                - [Flinto](https://www.flinto.com/)
+                - [Proto.io](https://proto.io/)
+            - 
+        - Design Best Practices:
+            - Stay focused. Identify the screens/flows that you need to build in order to test your idea
+            - Use a template. Build a base screen that you can duplicate to use as the foundation for additional screen
+            - Keep it real. Avoid using placeholder assets and copy. This will change the way that users interact with and provide feedback about your prototype
+            - Test it. Click through your prototype once your done to make sure everything is working
+            - [ ] Further Research
+                - [10 Mobile App Prototyping Best Practices that Result in a Stellar Finished Product](https://medium.com/@protoio/10-mobile-app-prototyping-best-practices-that-result-in-a-stellar-finished-product-feac3274d2ac)
+    - ## Phase 6: VALIDATE:
+        - Validation is a super important part of the Design Sprint process. It allows you to test your ideas and get feedback without having to invest in fully building out the idea. You’ll validate your idea by talking directly to your target users to learn more about them and then ask them to try out your prototype and provide feedback.
+        - In addition to getting feedback from users, it’s also important to validate that your idea can actually be built by the engineering team in a reasonable amount of time.
+        - **Planning User Study**:
+            - Plan before hand these things:
+                - Who is your target user?
+                - How many interviews will you have?
+                - What do you want to find out?
+                    - Background information about the user
+                    - Specific questions around your idea
+                    - Tasks to complete with a prototype
+                - How much time you will need to complete each interview
+            - Planning Example:
+                - Target Users:
+                    - Split between power shoppers and casual shoppers
+                    - Split between one person households and multi-person households
+                    - Slightly skewed towards people who have not purchased groceries online in the last 30 days 
+                - Number of Interviews: 7 x 60 minutes Research Objectives (the questions we want to answer):
+                    - Have you ever shopped for groceries online?
+                    - What was that experience like?
+                    - Are there specific items you wouldn’t consider purchasing online?
+                    - How would you feel about groceries being automatically ordered for you?
+                    - Are there any concerns that you would have?
+            - [ ] [The Basics of Recruiting Users for Usability Testing](https://www.interaction-design.org/literature/article/the-basics-of-recruiting-users-for-usability-testing)
+        - **[User Research](<User Research.md>):**
+            - Things to Remember
+                - Introduce yourself and give an overview of what you will be asking the user to do during the study
+                - Ask user to sign NDA (if applicable)
+                - Learn more about the user’s background by asking general questions (although the questions should be related to your project)
+                - Start focusing in by shifting to more specific questions directly tied to your project space
+                - Ask the user to complete tasks using the prototype
+                - Ask the user for their overall feedback about the prototype
+                - Thank the user!
+            - Questions
+                - Keep questions open ended
+                - If asked a question, try to get the user to answer the question from their perspective by reframing (ex: how do you think it should work)
+                    - If a user asks you “what does this button do” during the study, what is the best way to respond
+                        - Ask the user what they think the button should do
+            - Example solution for grocery store:
+                - My Interview Guide
+                - Introduction and overview of the study
+                - __My name is Alex and I’m a Product Manager here at Grocery store. The team’s been working on some exciting new ideas about the shopping experience and we wanted to share them with you and get your feedback.__
+                - __The way that this interview will run is… I have a few background questions to get to know you a little bit better and some of your shopping habits. Then, we’ll switch gears and I’ll show you a prototype that the team has been working on and ask you for your feedback.__
+                - __Before we get started, please review this NDA and sign it. It’s important that the things we show you and the ideas that we discuss today stay confidential.__
+                - __Do you have any questions before we get started?__
+                - __No questions… Great! Is it ok if I record this session? The recording is only going to be used internally by the team to refer back to our conversation. It also helps make sure that we don’t miss anything in the notes.__
+                - **General questions about the user's background (as related to the product)**
+                    - Can you tell me a little bit about yourself?
+                    - How long have you been living in this city?
+                    - Can you tell me a little bit about your living situation?
+                    - When was the last time you went to a grocery store? How often do you go?
+                - **More specific questions about the user's experiences getting groceries**
+                    - Have you ever purchased groceries online? Why or why not?
+                    - What types of items would you consider purchasing online? Why?
+                    - Do you have any concerns about purchasing groceries online? Why?
+                    - If you were to purchase groceries online, how would you like items to get to you? Why?
+                - **Tasks for the user to complete in the prototype**
+                - __Now I’m going to show you a prototype that the team has been working on. Keep in mind that this isn’t a test… And there’s no right or wrong answer. We’re trying to understand how well this idea works for you. And because it’s a prototype, not everything you see in the app may work.__
+                - __One more thing… As you start using the prototype, I’m going to ask you to think out loud. I’m interested in hearing what you are seeing on the screen, how you are interpreting it, and what you expect things to do.__
+                    - Go ahead and take a look around. Can you describe what you see?
+                    - How would you go about finding items that you ordered in the past? Can you show me?
+                    - Let’s say that you wanted to purchase more paper towels. How would you do that?
+                    - What are the different options for getting the product to you? Which one do you prefer? Why?
+                - **User's feedback about the prototype**
+                - __Awesome! Thanks so much for going through all of that with us. Just a few more questions__
+                    - Do you think this is something you would use? Why or why not?
+                    - Is there anything you think could be improved?
+                    - Is there any other feedback you want to share with the team?
+                - **Thank you message to the user for participating**
+                - __Thanks so much for coming in! We really appreciate you taking the time to share your thoughts about what we’ve been working on.__
+            - **Things to Remember**
+                - It’s important to have a good structure for the user study. This can be achieved by starting with an introduction and then asking broad questions, which become more focused and then switching to asking the user to complete tasks using the prototype.
+                - When creating your research plan and running the study, it’s also very important to keep your questions open ended and avoid leading questions. This helps to make sure that you are getting unbiased, honest answers back from the user.
+            - [ ] User Interviews Further Research
+                - [How to conduct user interviews](https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7)
+                - [6 Tips for Better User Interviews](https://uxplanet.org/6-tips-for-better-user-interviews-ad925afc52df)
+        - **Technical feasibililty**:
+            - Things to Remember
+                - You can have the best idea, but if it can’t be built in a reasonable timeline you won’t get very far.
+                - It’s not your job to know how to build it, but it’s important that you can have a technical conversation to understand complexities and make tradeoffs
+                - You can use a prototype to help facilitate the conversation by walking through user facing flows
+                - You should also come prepared with some questions around what data is needed to generate the UI, where user entered data will be stored, and any causes for latency
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2Fnymc9AsPbz?alt=media&token=6679c614-10cc-4cc6-a8d6-92057935972d)
+            - Sample questions for grocery store:
+                - Can we leverage any of our existing systems
+                - Subscriptions,,, can we have them? What are the risks and challenges
+                - Storing credit card data for online purchases?
+                - How does inventory management come into play?
+            - [ ] Further Research
+                - [Development fundamentals for UX designers](https://uxdesign.cc/development-fundamentals-for-ux-designers-caf759724874)
+    - ## CONCLUSION
+        - **Iterations:**
+            - Iteration is an important part of the process that allows you to test and refine your ideas. Iteration can reduce overall risk for a project by getting feedback early on without having to build out the actual product.
+            - Iteration does take time though. And you will never get everything completely perfect. It’s important to focus on getting the things right that will be hard to fix if you reach the wrong conclusion.
+            - Iteration Further Research
+                - [Design Iteration Brings Powerful Results](https://www.interaction-design.org/literature/article/design-iteration-brings-powerful-results-so-do-it-again-designer)
+                - [Iterative User Interface Design](https://www.nngroup.com/articles/iterative-design/)
+        - **Evangelizing Further Research**
+            - [ ] [The Art of Evangelism](https://hbr.org/2015/05/the-art-of-evangelism)
+            - At the end of a Design Sprint you will have a number of great artifacts that you can share to explain the problem, process, and approach that the team took. Sharing a summary of the Design Sprint more broadly will help to create buy into the project and the Design Sprint process.
+            - The most powerful artifact you can share will likely be the prototype since it will clear communicate your idea from the perspective of how a user would interact with it
+        - **PRD:**
+            - A Product Requirement Doc captures the problem the team is trying to solve, the goals of the project, how success will be measured, and the requirements for how features should work along with associated priority.
+            - The PRD is the most important document that you will create as a Product Manager. It serves as an input to a handful of other teams. There’s a variety of different formats that you can use, but you’ll always want to make sure that you have the following sections:
+                - Background
+                - Problem
+                - Goals
+                - Success metrics
+                - Features (including priority)
+                    - P0 = launch blocker. Product will not launch without this feature
+                    - P1 = desirable for launch, but not required. Fast follow after launch
+                    - P2 = nice to have
+                    - P3, P4 = unlikely to get built
+            - [ ] Further Research
+                - [How to write a painless PRD](https://medium.com/@uxpin/how-to-write-a-painless-product-requirements-document-508ff6807b4a)
+                - [PRD template from Aha](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document-template)
+                - [PRD template from Atlassian](https://www.atlassian.com/software/confluence/templates/product-requirements-document)
+            - 
+        - **You should now be able to:**
+            - Organize and run a Design Sprint to create a product that solves a user need
+            - Create sketches, storyboards, and build interactive prototypes
+            - Design a research plan to validate product concept and identify usability issues along critical user journeys
+            - Recruit participants and Conduct usability tests following a research plan
+            - Translate user insights into product improvements
+    - ## DESIGN SPRINT PROJECT
+        - Kaiser Permanente is looking to enter into the preventative care space to help their patient base increase physical activity and improve on healthy habits.  While the overall goal is improved patient satisfaction and well being, the specific financial goal is reduced cost by emphasizing improved health prior to any adverse conditionsdeveloping.  Overall, KP wants to decrease spending on conditions such as type 2 diabetes.
+        - 
+        - ## 0. Set the Stage
+            You will start a PRD that can be shared with the team to set the stage about why this problem matters. The first part of the PRD will include:
+                - Any relevant background information
+                - A problem statement which communicates the scope of the problem
+                - Initial goals, which can continue to evolve throughout the project
+        - ## 1. Understand
+            - Create a shared understanding of the problem space and identify opportunities through a “How Might We” exercise.
+            - Create at least 20 virtual stickies that ask questions following the "How Might We" model
+                - Opportunities. Not solutions.
+                - Not too broad, and not too narrow
+                - One idea per sticky
+            - 
+                - how might we increase physical activity
+                - how might we improve halthy habits
+                - how might we connect physicians with patients
+                - how might we track their habits
+                - how might we track their activities
+                - how might we track calories intake and spent
+                - how might we ensure sufficient nutritional elements consumption by users
+                - how might we warn them of future conditions
+                - how might we make physicians see patients metrics
+                - how might we educate importance of prevention
+                - how might we prescribe goals
+                - how might we get insights based on their performance
+                - how might we engage users to follow goals
+                - how might we gamify exercise
+                - how might we make patients avoid bad food choices
+                - how might we make leaderboards and hall of fames based on users performance
+                - how might we find perfect accountability partner
+                - how might we reward member for achieving goals
+                - how might we gain trust to store users data
+                - how might we ensure private data is protected
+                - how might we regularly give users feedback and suggestions from physicians
+                - how much we introduce competitions to increase engagement
+            - Get input from other members of your digital "team"
+                - Open the Google Slides deck that corresponds with your project
+                - Copy three slides back into your deck
+            - Sort and group the stickies
+                - Place any stickies that do not follow the "How Might We" model into an "other" cluster
+                - Group similar stickies together into clusters and label each cluster
+                - Group similar clusters together into themes -- one per slide -- and label the title of the slide with the theme
+            - Pick one theme that you want to move forward with and explain your rationale for selecting that theme
+        - ## 2. Define
+            - By defining and focusing on the desired outcomes, you’ll be able to more clearly understand how to get there.
+            - Define success metrics - Identify goals along with the signals and metrics that can be used to measure them using the HEART framework. This will be helpful later on, as you’ve already outlined what your project needs to do in order to be successful.
+                - Start by identifying at least two user-centered __goals__
+                - Then identify what __signals__ from user behavior will affect reaching each specific goal. 
+                - Finally, create __metrics__ derived from those signals can be measured
+            - Write a future press review
+                - Think about how you want users to respond to your product:
+                    - Who is it for?
+                    - What problem does it solve?
+                    - How does it change a customer’s life?
+                    - Why should customers love it?
+                - Use that information to draft a review from the perspective of the user
+        - ## 3. Sketch
+            - Generate ideas for possible solutions based on the theme that you selected.
+            - Create 8 quick sketches to quickly generate a few ideas.
+                - Take a sheet of paper and fold it into 8 sections
+                - Sketch an idea in each of the 8 sections
+                - Spend about 1-2 minutes per sketch
+            - Pick two to develop into more detailed flows that clarify how the solution would work.
+                - Spend about 30 minutes per sketch
+                - Sketch your idea in more detail than the last exercise -- use text annotations if needed
+                - Create at least 3 frames that show how the user progresses through the flow
+                - Include a title
+        - ## 4. Decide
+            - Pick the final concept that you want to develop into a prototype
+                - Pick your most compelling solution sketch
+                - Explain why it’s the most compelling
+        - ## 5. Prototype
+            - Turn your concept into a realistic, interactive prototype that you will use to validate your assumptions and ideas
+                - Storyboard - Create a storyboard based on your best solution sketch. We’ll use the storyboard as the blueprint to create the prototype.
+                - The storyboard should:
+                    - Be high fidelity enough to build a prototype:
+                        - Detail the steps a user goes through and how they progress from one step to the next
+                        - Detail the layout of the software experience (wireframe level detail)
+                    - Cover the entire user journey (ie: things that can happen outside the software experience)
+                        - What prompts the user to use this?
+                - Prototype - Create an interactive prototype to showcase your concept
+                    - Create mocks based on your storyboard using the [Figma prototyping tool](https://www.figma.com/prototyping/)
+                    - Use the prototype tool to define the flows
+                    - Describe the concept that your prototype captures
+                    - Describe the flows/tasks a user can complete in your prototype
+        - Define success metrics - Identify goals along with the signals and metrics that can be used to measure them using the HEART framework. This will be helpful later on, as you’ve already outlined what your project needs to do in order to be successful.
+        - # 7. Iterate
+            - Course correct
+                - Pick the top two issues that you identified in the previous user interviews
+                - Explain your rationale for wanting to address those two issues
+                - Update your Figma file to address those two issues
+            - More user studies
+                - Schedule one meeting with people you can interview about your prototype (not the same people as before)
+                    - Note: It might not be possible to someone who meets your target user criteria-- and that’s ok for the sake of this exercise
+                - Run through your interview script in the research plan.
+                    - You will ask some background questions to the participant and then ask them to complete several tasks
+                - Make sure to take notes during the interview (you can use the research plan as a template for notes)
+                - You should record the audio of the interview
+                - You should plan to spend about 30 minutes per interview
+            - Leverage learnings from your first two user interviews to make changes to your prototype. Then run another round of user interviews.
+                - Course correct
+                    - Pick the top two issues that you identified in the previous user interviews
+                    - Explain your rationale for wanting to address those two issues
+                    - Update your Figma file to address those two issues
+                - More user studies
+                    - Schedule one meeting with people you can interview about your prototype (not the same people as before)
+                        - Note: It might not be possible to someone who meets your target user criteria-- and that’s ok for the sake of this exercise
+                    - Run through your interview script in the research plan.
+                        - You will ask some background questions to the participant and then ask them to complete several tasks
+                    - Make sure to take notes during the interview (you can use the research plan as a template for notes)
+                    - You should record the audio of the interview
+                    - You should plan to spend about 30 minutes per interview
+        - Leverage learnings from your first two user interviews to make changes to your prototype. Then run another round of user interviews.
+            - Course correct
+                - Pick the top two issues that you identified in the previous user interviews
+                - Explain your rationale for wanting to address those two issues
+                - Update your Figma file to address those two issues
+            - More user studies
+                - Schedule one meeting with people you can interview about your prototype (not the same people as before)
+                    - Note: It might not be possible to someone who meets your target user criteria-- and that’s ok for the sake of this exercise
+                - Run through your interview script in the research plan.
+                    - You will ask some background questions to the participant and then ask them to complete several tasks
+                - Make sure to take notes during the interview (you can use the research plan as a template for notes)
+                - You should record the audio of the interview
+                - You should plan to spend about 30 minutes per interview
+        - # 8. Handoff
+            - Refine the problem and goals section (if needed)
+            - Complete the Key Features and Scope section
+            - Link your mocks to the PRD
+        - 
+- # [User Experience ](<User Experience .md>)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FML_thoughts%2FrCKhbvKWOF.png?alt=media&token=5c57fd8b-dc63-41d0-bda6-6c2c743dcedc)
+- Design System [Resources](<Resources.md>)
+    - [How to Build a Design System in Three Months Workbook](https://drive.google.com/file/d/1rX0ZVvljiIiDorqS1yRu4VvUnCSPqx5N/view)
+    - https://uxdesign.cc/how-to-inform-product-vision-with-a-heart-workshop-5fa72d778066
+
+# Backlinks
+## [August 15th, 2020](<August 15th, 2020.md>)
+- More #[Product Design](<Product Design.md>)
+
+## [Product Management](<Product Management.md>)
+- ### [Product Design](<Product Design.md>)
+
+## [Startup](<Startup.md>)
+- [Product Design](<Product Design.md>)
+
+## [Visualize Value](<Visualize Value.md>)
+- [Course](<Course.md>) #[Product Design](<Product Design.md>)
+
